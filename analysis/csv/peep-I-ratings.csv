@@ -1,0 +1,937 @@
+"pid","awake.data.collected","collected.run1","collected.run2","prosody","script.num","rating.type","ratings"
+"001","Child Stopped scan",NA,NA,"neu","1","ang",NA
+"002","Yes",NA,NA,"neu","1","ang",NA
+"003","Yes",NA,NA,"neu","1","ang",NA
+"004","Yes",NA,NA,"neu","1","ang",2
+"005","Yes",NA,1,"neu","1","ang",2
+"007","Yes",NA,NA,"neu","1","ang",2
+"008","Yes",1,1,"neu","1","ang",1
+"009","Yes",1,1,"neu","1","ang",2
+"012","Yes",NA,NA,"neu","1","ang",1
+"013","Yes",1,1,"neu","1","ang",1
+"014","No Data due to Experimentor Error",NA,NA,"neu","1","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","1","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"neu","1","ang",1
+"017","Yes",NA,NA,"neu","1","ang",1
+"018","Yes",NA,NA,"neu","1","ang",2
+"020","Child Stopped scan",NA,NA,"neu","1","ang",2
+"021","Yes",1,1,"neu","1","ang",1
+"022","Child Refused",NA,NA,"neu","1","ang",1
+"023","Child Refused",NA,NA,"neu","1","ang",2
+"024","Yes",NA,NA,"neu","1","ang",1
+"025","Yes",NA,NA,"neu","1","ang",1
+"026","Yes",NA,NA,"neu","1","ang",2
+"027","Yes",1,1,"neu","1","ang",1
+"028","Yes",1,1,"neu","1","ang",1
+"029","Child Stopped scan",NA,NA,"neu","1","ang",1
+"030","Child Refused",NA,NA,"neu","1","ang",2
+"033","Yes",1,1,"neu","1","ang",1
+"034","Yes",1,1,"neu","1","ang",2
+"035","Yes",1,1,"neu","1","ang",1
+"036","Yes",1,1,"neu","1","ang",4
+"037","Yes",1,1,"neu","1","ang",2
+"038","Yes",NA,NA,"neu","1","ang",1
+"039","Yes",1,1,"neu","1","ang",1
+"040","Yes",NA,NA,"neu","1","ang",1
+"041","Yes",NA,NA,"neu","1","ang",3
+"042","Yes",NA,1,"neu","1","ang",1
+"043","Child Stopped scan",NA,NA,"neu","1","ang",2
+"045","Yes",1,1,"neu","1","ang",1
+"046","Yes",1,1,"neu","1","ang",1
+"001","Child Stopped scan",NA,NA,"neu","2","ang",NA
+"002","Yes",NA,NA,"neu","2","ang",NA
+"003","Yes",NA,NA,"neu","2","ang",NA
+"004","Yes",NA,NA,"neu","2","ang",2
+"005","Yes",NA,1,"neu","2","ang",2
+"007","Yes",NA,NA,"neu","2","ang",1
+"008","Yes",1,1,"neu","2","ang",1
+"009","Yes",1,1,"neu","2","ang",1
+"012","Yes",NA,NA,"neu","2","ang",2
+"013","Yes",1,1,"neu","2","ang",2
+"014","No Data due to Experimentor Error",NA,NA,"neu","2","ang",1
+"015","No Data due to Experimentor Error",NA,NA,"neu","2","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"neu","2","ang",1
+"017","Yes",NA,NA,"neu","2","ang",1
+"018","Yes",NA,NA,"neu","2","ang",1
+"020","Child Stopped scan",NA,NA,"neu","2","ang",1
+"021","Yes",1,1,"neu","2","ang",1
+"022","Child Refused",NA,NA,"neu","2","ang",2
+"023","Child Refused",NA,NA,"neu","2","ang",2
+"024","Yes",NA,NA,"neu","2","ang",1
+"025","Yes",NA,NA,"neu","2","ang",2
+"026","Yes",NA,NA,"neu","2","ang",1
+"027","Yes",1,1,"neu","2","ang",2
+"028","Yes",1,1,"neu","2","ang",1
+"029","Child Stopped scan",NA,NA,"neu","2","ang",3
+"030","Child Refused",NA,NA,"neu","2","ang",2
+"033","Yes",1,1,"neu","2","ang",1
+"034","Yes",1,1,"neu","2","ang",1
+"035","Yes",1,1,"neu","2","ang",1
+"036","Yes",1,1,"neu","2","ang",1
+"037","Yes",1,1,"neu","2","ang",1
+"038","Yes",NA,NA,"neu","2","ang",2
+"039","Yes",1,1,"neu","2","ang",1
+"040","Yes",NA,NA,"neu","2","ang",1
+"041","Yes",NA,NA,"neu","2","ang",2
+"042","Yes",NA,1,"neu","2","ang",1
+"043","Child Stopped scan",NA,NA,"neu","2","ang",1
+"045","Yes",1,1,"neu","2","ang",1
+"046","Yes",1,1,"neu","2","ang",1
+"001","Child Stopped scan",NA,NA,"neu","3","ang",NA
+"002","Yes",NA,NA,"neu","3","ang",NA
+"003","Yes",NA,NA,"neu","3","ang",NA
+"004","Yes",NA,NA,"neu","3","ang",2
+"005","Yes",NA,1,"neu","3","ang",2
+"007","Yes",NA,NA,"neu","3","ang",2
+"008","Yes",1,1,"neu","3","ang",2
+"009","Yes",1,1,"neu","3","ang",2
+"012","Yes",NA,NA,"neu","3","ang",2
+"013","Yes",1,1,"neu","3","ang",3
+"014","No Data due to Experimentor Error",NA,NA,"neu","3","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","3","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"neu","3","ang",1
+"017","Yes",NA,NA,"neu","3","ang",1
+"018","Yes",NA,NA,"neu","3","ang",2
+"020","Child Stopped scan",NA,NA,"neu","3","ang",3
+"021","Yes",1,1,"neu","3","ang",2
+"022","Child Refused",NA,NA,"neu","3","ang",2
+"023","Child Refused",NA,NA,"neu","3","ang",1
+"024","Yes",NA,NA,"neu","3","ang",1
+"025","Yes",NA,NA,"neu","3","ang",2
+"026","Yes",NA,NA,"neu","3","ang",1
+"027","Yes",1,1,"neu","3","ang",1
+"028","Yes",1,1,"neu","3","ang",2
+"029","Child Stopped scan",NA,NA,"neu","3","ang",1
+"030","Child Refused",NA,NA,"neu","3","ang",2
+"033","Yes",1,1,"neu","3","ang",1
+"034","Yes",1,1,"neu","3","ang",2
+"035","Yes",1,1,"neu","3","ang",2
+"036","Yes",1,1,"neu","3","ang",3
+"037","Yes",1,1,"neu","3","ang",3
+"038","Yes",NA,NA,"neu","3","ang",2
+"039","Yes",1,1,"neu","3","ang",1
+"040","Yes",NA,NA,"neu","3","ang",1
+"041","Yes",NA,NA,"neu","3","ang",2
+"042","Yes",NA,1,"neu","3","ang",2
+"043","Child Stopped scan",NA,NA,"neu","3","ang",1
+"045","Yes",1,1,"neu","3","ang",1
+"046","Yes",1,1,"neu","3","ang",1
+"001","Child Stopped scan",NA,NA,"neu","4","ang",NA
+"002","Yes",NA,NA,"neu","4","ang",NA
+"003","Yes",NA,NA,"neu","4","ang",NA
+"004","Yes",NA,NA,"neu","4","ang",2
+"005","Yes",NA,1,"neu","4","ang",1
+"007","Yes",NA,NA,"neu","4","ang",2
+"008","Yes",1,1,"neu","4","ang",2
+"009","Yes",1,1,"neu","4","ang",2
+"012","Yes",NA,NA,"neu","4","ang",2
+"013","Yes",1,1,"neu","4","ang",2
+"014","No Data due to Experimentor Error",NA,NA,"neu","4","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","4","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"neu","4","ang",4
+"017","Yes",NA,NA,"neu","4","ang",1
+"018","Yes",NA,NA,"neu","4","ang",2
+"020","Child Stopped scan",NA,NA,"neu","4","ang",2
+"021","Yes",1,1,"neu","4","ang",1
+"022","Child Refused",NA,NA,"neu","4","ang",1
+"023","Child Refused",NA,NA,"neu","4","ang",2
+"024","Yes",NA,NA,"neu","4","ang",1
+"025","Yes",NA,NA,"neu","4","ang",3
+"026","Yes",NA,NA,"neu","4","ang",2
+"027","Yes",1,1,"neu","4","ang",1
+"028","Yes",1,1,"neu","4","ang",1
+"029","Child Stopped scan",NA,NA,"neu","4","ang",2
+"030","Child Refused",NA,NA,"neu","4","ang",2
+"033","Yes",1,1,"neu","4","ang",1
+"034","Yes",1,1,"neu","4","ang",1
+"035","Yes",1,1,"neu","4","ang",1
+"036","Yes",1,1,"neu","4","ang",1
+"037","Yes",1,1,"neu","4","ang",2
+"038","Yes",NA,NA,"neu","4","ang",1
+"039","Yes",1,1,"neu","4","ang",1
+"040","Yes",NA,NA,"neu","4","ang",1
+"041","Yes",NA,NA,"neu","4","ang",1
+"042","Yes",NA,1,"neu","4","ang",2
+"043","Child Stopped scan",NA,NA,"neu","4","ang",1
+"045","Yes",1,1,"neu","4","ang",1
+"046","Yes",1,1,"neu","4","ang",3
+"001","Child Stopped scan",NA,NA,"neu","1","hap",NA
+"002","Yes",NA,NA,"neu","1","hap",NA
+"003","Yes",NA,NA,"neu","1","hap",NA
+"004","Yes",NA,NA,"neu","1","hap",2
+"005","Yes",NA,1,"neu","1","hap",2
+"007","Yes",NA,NA,"neu","1","hap",1
+"008","Yes",1,1,"neu","1","hap",1
+"009","Yes",1,1,"neu","1","hap",2
+"012","Yes",NA,NA,"neu","1","hap",2
+"013","Yes",1,1,"neu","1","hap",4
+"014","No Data due to Experimentor Error",NA,NA,"neu","1","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","1","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"neu","1","hap",4
+"017","Yes",NA,NA,"neu","1","hap",2
+"018","Yes",NA,NA,"neu","1","hap",2
+"020","Child Stopped scan",NA,NA,"neu","1","hap",2
+"021","Yes",1,1,"neu","1","hap",1
+"022","Child Refused",NA,NA,"neu","1","hap",1
+"023","Child Refused",NA,NA,"neu","1","hap",3
+"024","Yes",NA,NA,"neu","1","hap",2
+"025","Yes",NA,NA,"neu","1","hap",1
+"026","Yes",NA,NA,"neu","1","hap",1
+"027","Yes",1,1,"neu","1","hap",2
+"028","Yes",1,1,"neu","1","hap",2
+"029","Child Stopped scan",NA,NA,"neu","1","hap",2
+"030","Child Refused",NA,NA,"neu","1","hap",1
+"033","Yes",1,1,"neu","1","hap",1
+"034","Yes",1,1,"neu","1","hap",2
+"035","Yes",1,1,"neu","1","hap",1
+"036","Yes",1,1,"neu","1","hap",1
+"037","Yes",1,1,"neu","1","hap",2
+"038","Yes",NA,NA,"neu","1","hap",1
+"039","Yes",1,1,"neu","1","hap",1
+"040","Yes",NA,NA,"neu","1","hap",1
+"041","Yes",NA,NA,"neu","1","hap",2
+"042","Yes",NA,1,"neu","1","hap",3
+"043","Child Stopped scan",NA,NA,"neu","1","hap",1
+"045","Yes",1,1,"neu","1","hap",1
+"046","Yes",1,1,"neu","1","hap",3
+"001","Child Stopped scan",NA,NA,"neu","2","hap",NA
+"002","Yes",NA,NA,"neu","2","hap",NA
+"003","Yes",NA,NA,"neu","2","hap",NA
+"004","Yes",NA,NA,"neu","2","hap",1
+"005","Yes",NA,1,"neu","2","hap",2
+"007","Yes",NA,NA,"neu","2","hap",2
+"008","Yes",1,1,"neu","2","hap",1
+"009","Yes",1,1,"neu","2","hap",2
+"012","Yes",NA,NA,"neu","2","hap",3
+"013","Yes",1,1,"neu","2","hap",4
+"014","No Data due to Experimentor Error",NA,NA,"neu","2","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","2","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"neu","2","hap",3
+"017","Yes",NA,NA,"neu","2","hap",2
+"018","Yes",NA,NA,"neu","2","hap",2
+"020","Child Stopped scan",NA,NA,"neu","2","hap",1
+"021","Yes",1,1,"neu","2","hap",1
+"022","Child Refused",NA,NA,"neu","2","hap",2
+"023","Child Refused",NA,NA,"neu","2","hap",2
+"024","Yes",NA,NA,"neu","2","hap",2
+"025","Yes",NA,NA,"neu","2","hap",1
+"026","Yes",NA,NA,"neu","2","hap",1
+"027","Yes",1,1,"neu","2","hap",2
+"028","Yes",1,1,"neu","2","hap",2
+"029","Child Stopped scan",NA,NA,"neu","2","hap",2
+"030","Child Refused",NA,NA,"neu","2","hap",1
+"033","Yes",1,1,"neu","2","hap",1
+"034","Yes",1,1,"neu","2","hap",2
+"035","Yes",1,1,"neu","2","hap",1
+"036","Yes",1,1,"neu","2","hap",1
+"037","Yes",1,1,"neu","2","hap",3
+"038","Yes",NA,NA,"neu","2","hap",2
+"039","Yes",1,1,"neu","2","hap",1
+"040","Yes",NA,NA,"neu","2","hap",1
+"041","Yes",NA,NA,"neu","2","hap",1
+"042","Yes",NA,1,"neu","2","hap",3
+"043","Child Stopped scan",NA,NA,"neu","2","hap",2
+"045","Yes",1,1,"neu","2","hap",1
+"046","Yes",1,1,"neu","2","hap",1
+"001","Child Stopped scan",NA,NA,"neu","3","hap",NA
+"002","Yes",NA,NA,"neu","3","hap",NA
+"003","Yes",NA,NA,"neu","3","hap",NA
+"004","Yes",NA,NA,"neu","3","hap",1
+"005","Yes",NA,1,"neu","3","hap",2
+"007","Yes",NA,NA,"neu","3","hap",2
+"008","Yes",1,1,"neu","3","hap",1
+"009","Yes",1,1,"neu","3","hap",1
+"012","Yes",NA,NA,"neu","3","hap",1
+"013","Yes",1,1,"neu","3","hap",2
+"014","No Data due to Experimentor Error",NA,NA,"neu","3","hap",1
+"015","No Data due to Experimentor Error",NA,NA,"neu","3","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"neu","3","hap",2
+"017","Yes",NA,NA,"neu","3","hap",1
+"018","Yes",NA,NA,"neu","3","hap",2
+"020","Child Stopped scan",NA,NA,"neu","3","hap",3
+"021","Yes",1,1,"neu","3","hap",1
+"022","Child Refused",NA,NA,"neu","3","hap",1
+"023","Child Refused",NA,NA,"neu","3","hap",2
+"024","Yes",NA,NA,"neu","3","hap",1
+"025","Yes",NA,NA,"neu","3","hap",1
+"026","Yes",NA,NA,"neu","3","hap",1
+"027","Yes",1,1,"neu","3","hap",1
+"028","Yes",1,1,"neu","3","hap",1
+"029","Child Stopped scan",NA,NA,"neu","3","hap",2
+"030","Child Refused",NA,NA,"neu","3","hap",1
+"033","Yes",1,1,"neu","3","hap",1
+"034","Yes",1,1,"neu","3","hap",3
+"035","Yes",1,1,"neu","3","hap",1
+"036","Yes",1,1,"neu","3","hap",1
+"037","Yes",1,1,"neu","3","hap",2
+"038","Yes",NA,NA,"neu","3","hap",3
+"039","Yes",1,1,"neu","3","hap",1
+"040","Yes",NA,NA,"neu","3","hap",1
+"041","Yes",NA,NA,"neu","3","hap",1
+"042","Yes",NA,1,"neu","3","hap",3
+"043","Child Stopped scan",NA,NA,"neu","3","hap",4
+"045","Yes",1,1,"neu","3","hap",1
+"046","Yes",1,1,"neu","3","hap",2
+"001","Child Stopped scan",NA,NA,"neu","4","hap",NA
+"002","Yes",NA,NA,"neu","4","hap",NA
+"003","Yes",NA,NA,"neu","4","hap",NA
+"004","Yes",NA,NA,"neu","4","hap",2
+"005","Yes",NA,1,"neu","4","hap",3
+"007","Yes",NA,NA,"neu","4","hap",2
+"008","Yes",1,1,"neu","4","hap",2
+"009","Yes",1,1,"neu","4","hap",2
+"012","Yes",NA,NA,"neu","4","hap",2
+"013","Yes",1,1,"neu","4","hap",2
+"014","No Data due to Experimentor Error",NA,NA,"neu","4","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"neu","4","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"neu","4","hap",1
+"017","Yes",NA,NA,"neu","4","hap",2
+"018","Yes",NA,NA,"neu","4","hap",3
+"020","Child Stopped scan",NA,NA,"neu","4","hap",2
+"021","Yes",1,1,"neu","4","hap",1
+"022","Child Refused",NA,NA,"neu","4","hap",1
+"023","Child Refused",NA,NA,"neu","4","hap",2
+"024","Yes",NA,NA,"neu","4","hap",2
+"025","Yes",NA,NA,"neu","4","hap",1
+"026","Yes",NA,NA,"neu","4","hap",1
+"027","Yes",1,1,"neu","4","hap",2
+"028","Yes",1,1,"neu","4","hap",2
+"029","Child Stopped scan",NA,NA,"neu","4","hap",2
+"030","Child Refused",NA,NA,"neu","4","hap",2
+"033","Yes",1,1,"neu","4","hap",1
+"034","Yes",1,1,"neu","4","hap",3
+"035","Yes",1,1,"neu","4","hap",1
+"036","Yes",1,1,"neu","4","hap",1
+"037","Yes",1,1,"neu","4","hap",3
+"038","Yes",NA,NA,"neu","4","hap",1
+"039","Yes",1,1,"neu","4","hap",1
+"040","Yes",NA,NA,"neu","4","hap",1
+"041","Yes",NA,NA,"neu","4","hap",2
+"042","Yes",NA,1,"neu","4","hap",2
+"043","Child Stopped scan",NA,NA,"neu","4","hap",1
+"045","Yes",1,1,"neu","4","hap",2
+"046","Yes",1,1,"neu","4","hap",2
+"001","Child Stopped scan",NA,NA,"ang","1","ang",NA
+"002","Yes",NA,NA,"ang","1","ang",NA
+"003","Yes",NA,NA,"ang","1","ang",NA
+"004","Yes",NA,NA,"ang","1","ang",4
+"005","Yes",NA,1,"ang","1","ang",3
+"007","Yes",NA,NA,"ang","1","ang",3
+"008","Yes",1,1,"ang","1","ang",4
+"009","Yes",1,1,"ang","1","ang",3
+"012","Yes",NA,NA,"ang","1","ang",4
+"013","Yes",1,1,"ang","1","ang",4
+"014","No Data due to Experimentor Error",NA,NA,"ang","1","ang",4
+"015","No Data due to Experimentor Error",NA,NA,"ang","1","ang",4
+"016","No Data due to Experimentor Error",NA,NA,"ang","1","ang",3
+"017","Yes",NA,NA,"ang","1","ang",3
+"018","Yes",NA,NA,"ang","1","ang",3
+"020","Child Stopped scan",NA,NA,"ang","1","ang",1
+"021","Yes",1,1,"ang","1","ang",3
+"022","Child Refused",NA,NA,"ang","1","ang",3
+"023","Child Refused",NA,NA,"ang","1","ang",3
+"024","Yes",NA,NA,"ang","1","ang",4
+"025","Yes",NA,NA,"ang","1","ang",1
+"026","Yes",NA,NA,"ang","1","ang",2
+"027","Yes",1,1,"ang","1","ang",4
+"028","Yes",1,1,"ang","1","ang",3
+"029","Child Stopped scan",NA,NA,"ang","1","ang",3
+"030","Child Refused",NA,NA,"ang","1","ang",3
+"033","Yes",1,1,"ang","1","ang",2
+"034","Yes",1,1,"ang","1","ang",3
+"035","Yes",1,1,"ang","1","ang",3
+"036","Yes",1,1,"ang","1","ang",4
+"037","Yes",1,1,"ang","1","ang",3
+"038","Yes",NA,NA,"ang","1","ang",4
+"039","Yes",1,1,"ang","1","ang",2
+"040","Yes",NA,NA,"ang","1","ang",3
+"041","Yes",NA,NA,"ang","1","ang",4
+"042","Yes",NA,1,"ang","1","ang",1
+"043","Child Stopped scan",NA,NA,"ang","1","ang",4
+"045","Yes",1,1,"ang","1","ang",4
+"046","Yes",1,1,"ang","1","ang",3
+"001","Child Stopped scan",NA,NA,"ang","2","ang",NA
+"002","Yes",NA,NA,"ang","2","ang",NA
+"003","Yes",NA,NA,"ang","2","ang",NA
+"004","Yes",NA,NA,"ang","2","ang",4
+"005","Yes",NA,1,"ang","2","ang",3
+"007","Yes",NA,NA,"ang","2","ang",3
+"008","Yes",1,1,"ang","2","ang",2
+"009","Yes",1,1,"ang","2","ang",1
+"012","Yes",NA,NA,"ang","2","ang",4
+"013","Yes",1,1,"ang","2","ang",4
+"014","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
+"015","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
+"016","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
+"017","Yes",NA,NA,"ang","2","ang",2
+"018","Yes",NA,NA,"ang","2","ang",3
+"020","Child Stopped scan",NA,NA,"ang","2","ang",4
+"021","Yes",1,1,"ang","2","ang",4
+"022","Child Refused",NA,NA,"ang","2","ang",3
+"023","Child Refused",NA,NA,"ang","2","ang",4
+"024","Yes",NA,NA,"ang","2","ang",3
+"025","Yes",NA,NA,"ang","2","ang",4
+"026","Yes",NA,NA,"ang","2","ang",2
+"027","Yes",1,1,"ang","2","ang",4
+"028","Yes",1,1,"ang","2","ang",2
+"029","Child Stopped scan",NA,NA,"ang","2","ang",4
+"030","Child Refused",NA,NA,"ang","2","ang",3
+"033","Yes",1,1,"ang","2","ang",2
+"034","Yes",1,1,"ang","2","ang",3
+"035","Yes",1,1,"ang","2","ang",4
+"036","Yes",1,1,"ang","2","ang",4
+"037","Yes",1,1,"ang","2","ang",3
+"038","Yes",NA,NA,"ang","2","ang",4
+"039","Yes",1,1,"ang","2","ang",2
+"040","Yes",NA,NA,"ang","2","ang",3
+"041","Yes",NA,NA,"ang","2","ang",4
+"042","Yes",NA,1,"ang","2","ang",3
+"043","Child Stopped scan",NA,NA,"ang","2","ang",4
+"045","Yes",1,1,"ang","2","ang",4
+"046","Yes",1,1,"ang","2","ang",4
+"001","Child Stopped scan",NA,NA,"ang","3","ang",NA
+"002","Yes",NA,NA,"ang","3","ang",NA
+"003","Yes",NA,NA,"ang","3","ang",NA
+"004","Yes",NA,NA,"ang","3","ang",4
+"005","Yes",NA,1,"ang","3","ang",3
+"007","Yes",NA,NA,"ang","3","ang",4
+"008","Yes",1,1,"ang","3","ang",3
+"009","Yes",1,1,"ang","3","ang",2
+"012","Yes",NA,NA,"ang","3","ang",3
+"013","Yes",1,1,"ang","3","ang",4
+"014","No Data due to Experimentor Error",NA,NA,"ang","3","ang",4
+"015","No Data due to Experimentor Error",NA,NA,"ang","3","ang",4
+"016","No Data due to Experimentor Error",NA,NA,"ang","3","ang",2
+"017","Yes",NA,NA,"ang","3","ang",2
+"018","Yes",NA,NA,"ang","3","ang",2
+"020","Child Stopped scan",NA,NA,"ang","3","ang",4
+"021","Yes",1,1,"ang","3","ang",4
+"022","Child Refused",NA,NA,"ang","3","ang",4
+"023","Child Refused",NA,NA,"ang","3","ang",4
+"024","Yes",NA,NA,"ang","3","ang",3
+"025","Yes",NA,NA,"ang","3","ang",3
+"026","Yes",NA,NA,"ang","3","ang",3
+"027","Yes",1,1,"ang","3","ang",4
+"028","Yes",1,1,"ang","3","ang",2
+"029","Child Stopped scan",NA,NA,"ang","3","ang",3
+"030","Child Refused",NA,NA,"ang","3","ang",3
+"033","Yes",1,1,"ang","3","ang",3
+"034","Yes",1,1,"ang","3","ang",3
+"035","Yes",1,1,"ang","3","ang",2
+"036","Yes",1,1,"ang","3","ang",4
+"037","Yes",1,1,"ang","3","ang",2
+"038","Yes",NA,NA,"ang","3","ang",3
+"039","Yes",1,1,"ang","3","ang",2
+"040","Yes",NA,NA,"ang","3","ang",3
+"041","Yes",NA,NA,"ang","3","ang",4
+"042","Yes",NA,1,"ang","3","ang",2
+"043","Child Stopped scan",NA,NA,"ang","3","ang",4
+"045","Yes",1,1,"ang","3","ang",4
+"046","Yes",1,1,"ang","3","ang",4
+"001","Child Stopped scan",NA,NA,"ang","4","ang",NA
+"002","Yes",NA,NA,"ang","4","ang",NA
+"003","Yes",NA,NA,"ang","4","ang",NA
+"004","Yes",NA,NA,"ang","4","ang",4
+"005","Yes",NA,1,"ang","4","ang",4
+"007","Yes",NA,NA,"ang","4","ang",3
+"008","Yes",1,1,"ang","4","ang",3
+"009","Yes",1,1,"ang","4","ang",3
+"012","Yes",NA,NA,"ang","4","ang",4
+"013","Yes",1,1,"ang","4","ang",3
+"014","No Data due to Experimentor Error",NA,NA,"ang","4","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"ang","4","ang",4
+"016","No Data due to Experimentor Error",NA,NA,"ang","4","ang",4
+"017","Yes",NA,NA,"ang","4","ang",3
+"018","Yes",NA,NA,"ang","4","ang",2
+"020","Child Stopped scan",NA,NA,"ang","4","ang",4
+"021","Yes",1,1,"ang","4","ang",3
+"022","Child Refused",NA,NA,"ang","4","ang",3
+"023","Child Refused",NA,NA,"ang","4","ang",4
+"024","Yes",NA,NA,"ang","4","ang",4
+"025","Yes",NA,NA,"ang","4","ang",1
+"026","Yes",NA,NA,"ang","4","ang",3
+"027","Yes",1,1,"ang","4","ang",4
+"028","Yes",1,1,"ang","4","ang",4
+"029","Child Stopped scan",NA,NA,"ang","4","ang",4
+"030","Child Refused",NA,NA,"ang","4","ang",2
+"033","Yes",1,1,"ang","4","ang",4
+"034","Yes",1,1,"ang","4","ang",4
+"035","Yes",1,1,"ang","4","ang",3
+"036","Yes",1,1,"ang","4","ang",4
+"037","Yes",1,1,"ang","4","ang",4
+"038","Yes",NA,NA,"ang","4","ang",4
+"039","Yes",1,1,"ang","4","ang",3
+"040","Yes",NA,NA,"ang","4","ang",3
+"041","Yes",NA,NA,"ang","4","ang",4
+"042","Yes",NA,1,"ang","4","ang",3
+"043","Child Stopped scan",NA,NA,"ang","4","ang",4
+"045","Yes",1,1,"ang","4","ang",4
+"046","Yes",1,1,"ang","4","ang",3
+"001","Child Stopped scan",NA,NA,"ang","1","hap",NA
+"002","Yes",NA,NA,"ang","1","hap",NA
+"003","Yes",NA,NA,"ang","1","hap",NA
+"004","Yes",NA,NA,"ang","1","hap",1
+"005","Yes",NA,1,"ang","1","hap",2
+"007","Yes",NA,NA,"ang","1","hap",1
+"008","Yes",1,1,"ang","1","hap",1
+"009","Yes",1,1,"ang","1","hap",1
+"012","Yes",NA,NA,"ang","1","hap",1
+"013","Yes",1,1,"ang","1","hap",1
+"014","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
+"015","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
+"017","Yes",NA,NA,"ang","1","hap",1
+"018","Yes",NA,NA,"ang","1","hap",2
+"020","Child Stopped scan",NA,NA,"ang","1","hap",1
+"021","Yes",1,1,"ang","1","hap",1
+"022","Child Refused",NA,NA,"ang","1","hap",1
+"023","Child Refused",NA,NA,"ang","1","hap",3
+"024","Yes",NA,NA,"ang","1","hap",1
+"025","Yes",NA,NA,"ang","1","hap",1
+"026","Yes",NA,NA,"ang","1","hap",1
+"027","Yes",1,1,"ang","1","hap",1
+"028","Yes",1,1,"ang","1","hap",1
+"029","Child Stopped scan",NA,NA,"ang","1","hap",1
+"030","Child Refused",NA,NA,"ang","1","hap",2
+"033","Yes",1,1,"ang","1","hap",1
+"034","Yes",1,1,"ang","1","hap",2
+"035","Yes",1,1,"ang","1","hap",1
+"036","Yes",1,1,"ang","1","hap",1
+"037","Yes",1,1,"ang","1","hap",2
+"038","Yes",NA,NA,"ang","1","hap",4
+"039","Yes",1,1,"ang","1","hap",1
+"040","Yes",NA,NA,"ang","1","hap",1
+"041","Yes",NA,NA,"ang","1","hap",1
+"042","Yes",NA,1,"ang","1","hap",3
+"043","Child Stopped scan",NA,NA,"ang","1","hap",1
+"045","Yes",1,1,"ang","1","hap",1
+"046","Yes",1,1,"ang","1","hap",1
+"001","Child Stopped scan",NA,NA,"ang","2","hap",NA
+"002","Yes",NA,NA,"ang","2","hap",NA
+"003","Yes",NA,NA,"ang","2","hap",NA
+"004","Yes",NA,NA,"ang","2","hap",1
+"005","Yes",NA,1,"ang","2","hap",1
+"007","Yes",NA,NA,"ang","2","hap",1
+"008","Yes",1,1,"ang","2","hap",1
+"009","Yes",1,1,"ang","2","hap",1
+"012","Yes",NA,NA,"ang","2","hap",1
+"013","Yes",1,1,"ang","2","hap",1
+"014","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
+"015","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
+"017","Yes",NA,NA,"ang","2","hap",1
+"018","Yes",NA,NA,"ang","2","hap",1
+"020","Child Stopped scan",NA,NA,"ang","2","hap",1
+"021","Yes",1,1,"ang","2","hap",1
+"022","Child Refused",NA,NA,"ang","2","hap",1
+"023","Child Refused",NA,NA,"ang","2","hap",1
+"024","Yes",NA,NA,"ang","2","hap",1
+"025","Yes",NA,NA,"ang","2","hap",1
+"026","Yes",NA,NA,"ang","2","hap",1
+"027","Yes",1,1,"ang","2","hap",1
+"028","Yes",1,1,"ang","2","hap",1
+"029","Child Stopped scan",NA,NA,"ang","2","hap",1
+"030","Child Refused",NA,NA,"ang","2","hap",1
+"033","Yes",1,1,"ang","2","hap",1
+"034","Yes",1,1,"ang","2","hap",1
+"035","Yes",1,1,"ang","2","hap",1
+"036","Yes",1,1,"ang","2","hap",1
+"037","Yes",1,1,"ang","2","hap",2
+"038","Yes",NA,NA,"ang","2","hap",3
+"039","Yes",1,1,"ang","2","hap",1
+"040","Yes",NA,NA,"ang","2","hap",1
+"041","Yes",NA,NA,"ang","2","hap",1
+"042","Yes",NA,1,"ang","2","hap",1
+"043","Child Stopped scan",NA,NA,"ang","2","hap",1
+"045","Yes",1,1,"ang","2","hap",1
+"046","Yes",1,1,"ang","2","hap",1
+"001","Child Stopped scan",NA,NA,"ang","3","hap",NA
+"002","Yes",NA,NA,"ang","3","hap",NA
+"003","Yes",NA,NA,"ang","3","hap",NA
+"004","Yes",NA,NA,"ang","3","hap",1
+"005","Yes",NA,1,"ang","3","hap",2
+"007","Yes",NA,NA,"ang","3","hap",1
+"008","Yes",1,1,"ang","3","hap",1
+"009","Yes",1,1,"ang","3","hap",1
+"012","Yes",NA,NA,"ang","3","hap",1
+"013","Yes",1,1,"ang","3","hap",1
+"014","No Data due to Experimentor Error",NA,NA,"ang","3","hap",1
+"015","No Data due to Experimentor Error",NA,NA,"ang","3","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"ang","3","hap",2
+"017","Yes",NA,NA,"ang","3","hap",1
+"018","Yes",NA,NA,"ang","3","hap",3
+"020","Child Stopped scan",NA,NA,"ang","3","hap",1
+"021","Yes",1,1,"ang","3","hap",1
+"022","Child Refused",NA,NA,"ang","3","hap",1
+"023","Child Refused",NA,NA,"ang","3","hap",1
+"024","Yes",NA,NA,"ang","3","hap",1
+"025","Yes",NA,NA,"ang","3","hap",1
+"026","Yes",NA,NA,"ang","3","hap",1
+"027","Yes",1,1,"ang","3","hap",1
+"028","Yes",1,1,"ang","3","hap",1
+"029","Child Stopped scan",NA,NA,"ang","3","hap",1
+"030","Child Refused",NA,NA,"ang","3","hap",1
+"033","Yes",1,1,"ang","3","hap",1
+"034","Yes",1,1,"ang","3","hap",2
+"035","Yes",1,1,"ang","3","hap",1
+"036","Yes",1,1,"ang","3","hap",1
+"037","Yes",1,1,"ang","3","hap",2
+"038","Yes",NA,NA,"ang","3","hap",3
+"039","Yes",1,1,"ang","3","hap",1
+"040","Yes",NA,NA,"ang","3","hap",1
+"041","Yes",NA,NA,"ang","3","hap",1
+"042","Yes",NA,1,"ang","3","hap",3
+"043","Child Stopped scan",NA,NA,"ang","3","hap",1
+"045","Yes",1,1,"ang","3","hap",1
+"046","Yes",1,1,"ang","3","hap",1
+"001","Child Stopped scan",NA,NA,"ang","4","hap",NA
+"002","Yes",NA,NA,"ang","4","hap",NA
+"003","Yes",NA,NA,"ang","4","hap",NA
+"004","Yes",NA,NA,"ang","4","hap",1
+"005","Yes",NA,1,"ang","4","hap",1
+"007","Yes",NA,NA,"ang","4","hap",1
+"008","Yes",1,1,"ang","4","hap",1
+"009","Yes",1,1,"ang","4","hap",1
+"012","Yes",NA,NA,"ang","4","hap",1
+"013","Yes",1,1,"ang","4","hap",2
+"014","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
+"015","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
+"017","Yes",NA,NA,"ang","4","hap",1
+"018","Yes",NA,NA,"ang","4","hap",3
+"020","Child Stopped scan",NA,NA,"ang","4","hap",1
+"021","Yes",1,1,"ang","4","hap",1
+"022","Child Refused",NA,NA,"ang","4","hap",1
+"023","Child Refused",NA,NA,"ang","4","hap",1
+"024","Yes",NA,NA,"ang","4","hap",1
+"025","Yes",NA,NA,"ang","4","hap",1
+"026","Yes",NA,NA,"ang","4","hap",1
+"027","Yes",1,1,"ang","4","hap",1
+"028","Yes",1,1,"ang","4","hap",1
+"029","Child Stopped scan",NA,NA,"ang","4","hap",1
+"030","Child Refused",NA,NA,"ang","4","hap",1
+"033","Yes",1,1,"ang","4","hap",1
+"034","Yes",1,1,"ang","4","hap",1
+"035","Yes",1,1,"ang","4","hap",1
+"036","Yes",1,1,"ang","4","hap",1
+"037","Yes",1,1,"ang","4","hap",2
+"038","Yes",NA,NA,"ang","4","hap",2
+"039","Yes",1,1,"ang","4","hap",1
+"040","Yes",NA,NA,"ang","4","hap",1
+"041","Yes",NA,NA,"ang","4","hap",1
+"042","Yes",NA,1,"ang","4","hap",2
+"043","Child Stopped scan",NA,NA,"ang","4","hap",1
+"045","Yes",1,1,"ang","4","hap",1
+"046","Yes",1,1,"ang","4","hap",1
+"001","Child Stopped scan",NA,NA,"hap","1","ang",NA
+"002","Yes",NA,NA,"hap","1","ang",NA
+"003","Yes",NA,NA,"hap","1","ang",NA
+"004","Yes",NA,NA,"hap","1","ang",2
+"005","Yes",NA,1,"hap","1","ang",2
+"007","Yes",NA,NA,"hap","1","ang",2
+"008","Yes",1,1,"hap","1","ang",1
+"009","Yes",1,1,"hap","1","ang",1
+"012","Yes",NA,NA,"hap","1","ang",1
+"013","Yes",1,1,"hap","1","ang",1
+"014","No Data due to Experimentor Error",NA,NA,"hap","1","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"hap","1","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"hap","1","ang",1
+"017","Yes",NA,NA,"hap","1","ang",1
+"018","Yes",NA,NA,"hap","1","ang",1
+"020","Child Stopped scan",NA,NA,"hap","1","ang",NA
+"021","Yes",1,1,"hap","1","ang",1
+"022","Child Refused",NA,NA,"hap","1","ang",1
+"023","Child Refused",NA,NA,"hap","1","ang",1
+"024","Yes",NA,NA,"hap","1","ang",1
+"025","Yes",NA,NA,"hap","1","ang",2
+"026","Yes",NA,NA,"hap","1","ang",1
+"027","Yes",1,1,"hap","1","ang",2
+"028","Yes",1,1,"hap","1","ang",1
+"029","Child Stopped scan",NA,NA,"hap","1","ang",2
+"030","Child Refused",NA,NA,"hap","1","ang",1
+"033","Yes",1,1,"hap","1","ang",1
+"034","Yes",1,1,"hap","1","ang",2
+"035","Yes",1,1,"hap","1","ang",1
+"036","Yes",1,1,"hap","1","ang",1
+"037","Yes",1,1,"hap","1","ang",1
+"038","Yes",NA,NA,"hap","1","ang",2
+"039","Yes",1,1,"hap","1","ang",1
+"040","Yes",NA,NA,"hap","1","ang",1
+"041","Yes",NA,NA,"hap","1","ang",2
+"042","Yes",NA,1,"hap","1","ang",1
+"043","Child Stopped scan",NA,NA,"hap","1","ang",1
+"045","Yes",1,1,"hap","1","ang",1
+"046","Yes",1,1,"hap","1","ang",1
+"001","Child Stopped scan",NA,NA,"hap","2","ang",NA
+"002","Yes",NA,NA,"hap","2","ang",NA
+"003","Yes",NA,NA,"hap","2","ang",NA
+"004","Yes",NA,NA,"hap","2","ang",2
+"005","Yes",NA,1,"hap","2","ang",2
+"007","Yes",NA,NA,"hap","2","ang",3
+"008","Yes",1,1,"hap","2","ang",1
+"009","Yes",1,1,"hap","2","ang",2
+"012","Yes",NA,NA,"hap","2","ang",1
+"013","Yes",1,1,"hap","2","ang",3
+"014","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
+"015","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
+"016","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
+"017","Yes",NA,NA,"hap","2","ang",1
+"018","Yes",NA,NA,"hap","2","ang",2
+"020","Child Stopped scan",NA,NA,"hap","2","ang",4
+"021","Yes",1,1,"hap","2","ang",1
+"022","Child Refused",NA,NA,"hap","2","ang",1
+"023","Child Refused",NA,NA,"hap","2","ang",1
+"024","Yes",NA,NA,"hap","2","ang",1
+"025","Yes",NA,NA,"hap","2","ang",4
+"026","Yes",NA,NA,"hap","2","ang",1
+"027","Yes",1,1,"hap","2","ang",1
+"028","Yes",1,1,"hap","2","ang",2
+"029","Child Stopped scan",NA,NA,"hap","2","ang",2
+"030","Child Refused",NA,NA,"hap","2","ang",2
+"033","Yes",1,1,"hap","2","ang",1
+"034","Yes",1,1,"hap","2","ang",2
+"035","Yes",1,1,"hap","2","ang",1
+"036","Yes",1,1,"hap","2","ang",1
+"037","Yes",1,1,"hap","2","ang",2
+"038","Yes",NA,NA,"hap","2","ang",2
+"039","Yes",1,1,"hap","2","ang",1
+"040","Yes",NA,NA,"hap","2","ang",1
+"041","Yes",NA,NA,"hap","2","ang",2
+"042","Yes",NA,1,"hap","2","ang",2
+"043","Child Stopped scan",NA,NA,"hap","2","ang",1
+"045","Yes",1,1,"hap","2","ang",1
+"046","Yes",1,1,"hap","2","ang",1
+"001","Child Stopped scan",NA,NA,"hap","3","ang",NA
+"002","Yes",NA,NA,"hap","3","ang",NA
+"003","Yes",NA,NA,"hap","3","ang",NA
+"004","Yes",NA,NA,"hap","3","ang",3
+"005","Yes",NA,1,"hap","3","ang",1
+"007","Yes",NA,NA,"hap","3","ang",2
+"008","Yes",1,1,"hap","3","ang",1
+"009","Yes",1,1,"hap","3","ang",1
+"012","Yes",NA,NA,"hap","3","ang",1
+"013","Yes",1,1,"hap","3","ang",3
+"014","No Data due to Experimentor Error",NA,NA,"hap","3","ang",1
+"015","No Data due to Experimentor Error",NA,NA,"hap","3","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"hap","3","ang",1
+"017","Yes",NA,NA,"hap","3","ang",1
+"018","Yes",NA,NA,"hap","3","ang",1
+"020","Child Stopped scan",NA,NA,"hap","3","ang",3
+"021","Yes",1,1,"hap","3","ang",1
+"022","Child Refused",NA,NA,"hap","3","ang",1
+"023","Child Refused",NA,NA,"hap","3","ang",1
+"024","Yes",NA,NA,"hap","3","ang",1
+"025","Yes",NA,NA,"hap","3","ang",2
+"026","Yes",NA,NA,"hap","3","ang",1
+"027","Yes",1,1,"hap","3","ang",1
+"028","Yes",1,1,"hap","3","ang",2
+"029","Child Stopped scan",NA,NA,"hap","3","ang",1
+"030","Child Refused",NA,NA,"hap","3","ang",2
+"033","Yes",1,1,"hap","3","ang",1
+"034","Yes",1,1,"hap","3","ang",2
+"035","Yes",1,1,"hap","3","ang",1
+"036","Yes",1,1,"hap","3","ang",1
+"037","Yes",1,1,"hap","3","ang",1
+"038","Yes",NA,NA,"hap","3","ang",2
+"039","Yes",1,1,"hap","3","ang",1
+"040","Yes",NA,NA,"hap","3","ang",2
+"041","Yes",NA,NA,"hap","3","ang",1
+"042","Yes",NA,1,"hap","3","ang",2
+"043","Child Stopped scan",NA,NA,"hap","3","ang",1
+"045","Yes",1,1,"hap","3","ang",1
+"046","Yes",1,1,"hap","3","ang",2
+"001","Child Stopped scan",NA,NA,"hap","4","ang",NA
+"002","Yes",NA,NA,"hap","4","ang",NA
+"003","Yes",NA,NA,"hap","4","ang",NA
+"004","Yes",NA,NA,"hap","4","ang",2
+"005","Yes",NA,1,"hap","4","ang",2
+"007","Yes",NA,NA,"hap","4","ang",2
+"008","Yes",1,1,"hap","4","ang",2
+"009","Yes",1,1,"hap","4","ang",1
+"012","Yes",NA,NA,"hap","4","ang",2
+"013","Yes",1,1,"hap","4","ang",1
+"014","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
+"015","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
+"016","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
+"017","Yes",NA,NA,"hap","4","ang",2
+"018","Yes",NA,NA,"hap","4","ang",1
+"020","Child Stopped scan",NA,NA,"hap","4","ang",1
+"021","Yes",1,1,"hap","4","ang",1
+"022","Child Refused",NA,NA,"hap","4","ang",1
+"023","Child Refused",NA,NA,"hap","4","ang",2
+"024","Yes",NA,NA,"hap","4","ang",1
+"025","Yes",NA,NA,"hap","4","ang",2
+"026","Yes",NA,NA,"hap","4","ang",1
+"027","Yes",1,1,"hap","4","ang",2
+"028","Yes",1,1,"hap","4","ang",2
+"029","Child Stopped scan",NA,NA,"hap","4","ang",1
+"030","Child Refused",NA,NA,"hap","4","ang",2
+"033","Yes",1,1,"hap","4","ang",1
+"034","Yes",1,1,"hap","4","ang",2
+"035","Yes",1,1,"hap","4","ang",1
+"036","Yes",1,1,"hap","4","ang",1
+"037","Yes",1,1,"hap","4","ang",2
+"038","Yes",NA,NA,"hap","4","ang",2
+"039","Yes",1,1,"hap","4","ang",1
+"040","Yes",NA,NA,"hap","4","ang",1
+"041","Yes",NA,NA,"hap","4","ang",1
+"042","Yes",NA,1,"hap","4","ang",1
+"043","Child Stopped scan",NA,NA,"hap","4","ang",1
+"045","Yes",1,1,"hap","4","ang",1
+"046","Yes",1,1,"hap","4","ang",2
+"001","Child Stopped scan",NA,NA,"hap","1","hap",NA
+"002","Yes",NA,NA,"hap","1","hap",NA
+"003","Yes",NA,NA,"hap","1","hap",NA
+"004","Yes",NA,NA,"hap","1","hap",2
+"005","Yes",NA,1,"hap","1","hap",3
+"007","Yes",NA,NA,"hap","1","hap",2
+"008","Yes",1,1,"hap","1","hap",3
+"009","Yes",1,1,"hap","1","hap",3
+"012","Yes",NA,NA,"hap","1","hap",2
+"013","Yes",1,1,"hap","1","hap",4
+"014","No Data due to Experimentor Error",NA,NA,"hap","1","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"hap","1","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"hap","1","hap",4
+"017","Yes",NA,NA,"hap","1","hap",2
+"018","Yes",NA,NA,"hap","1","hap",4
+"020","Child Stopped scan",NA,NA,"hap","1","hap",2
+"021","Yes",1,1,"hap","1","hap",2
+"022","Child Refused",NA,NA,"hap","1","hap",2
+"023","Child Refused",NA,NA,"hap","1","hap",2
+"024","Yes",NA,NA,"hap","1","hap",4
+"025","Yes",NA,NA,"hap","1","hap",1
+"026","Yes",NA,NA,"hap","1","hap",1
+"027","Yes",1,1,"hap","1","hap",3
+"028","Yes",1,1,"hap","1","hap",3
+"029","Child Stopped scan",NA,NA,"hap","1","hap",3
+"030","Child Refused",NA,NA,"hap","1","hap",2
+"033","Yes",1,1,"hap","1","hap",2
+"034","Yes",1,1,"hap","1","hap",3
+"035","Yes",1,1,"hap","1","hap",3
+"036","Yes",1,1,"hap","1","hap",1
+"037","Yes",1,1,"hap","1","hap",3
+"038","Yes",NA,NA,"hap","1","hap",3
+"039","Yes",1,1,"hap","1","hap",2
+"040","Yes",NA,NA,"hap","1","hap",2
+"041","Yes",NA,NA,"hap","1","hap",3
+"042","Yes",NA,1,"hap","1","hap",3
+"043","Child Stopped scan",NA,NA,"hap","1","hap",4
+"045","Yes",1,1,"hap","1","hap",4
+"046","Yes",1,1,"hap","1","hap",2
+"001","Child Stopped scan",NA,NA,"hap","2","hap",NA
+"002","Yes",NA,NA,"hap","2","hap",NA
+"003","Yes",NA,NA,"hap","2","hap",NA
+"004","Yes",NA,NA,"hap","2","hap",2
+"005","Yes",NA,1,"hap","2","hap",3
+"007","Yes",NA,NA,"hap","2","hap",1
+"008","Yes",1,1,"hap","2","hap",2
+"009","Yes",1,1,"hap","2","hap",3
+"012","Yes",NA,NA,"hap","2","hap",4
+"013","Yes",1,1,"hap","2","hap",1
+"014","No Data due to Experimentor Error",NA,NA,"hap","2","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"hap","2","hap",2
+"016","No Data due to Experimentor Error",NA,NA,"hap","2","hap",4
+"017","Yes",NA,NA,"hap","2","hap",1
+"018","Yes",NA,NA,"hap","2","hap",1
+"020","Child Stopped scan",NA,NA,"hap","2","hap",1
+"021","Yes",1,1,"hap","2","hap",3
+"022","Child Refused",NA,NA,"hap","2","hap",1
+"023","Child Refused",NA,NA,"hap","2","hap",3
+"024","Yes",NA,NA,"hap","2","hap",3
+"025","Yes",NA,NA,"hap","2","hap",1
+"026","Yes",NA,NA,"hap","2","hap",2
+"027","Yes",1,1,"hap","2","hap",3
+"028","Yes",1,1,"hap","2","hap",3
+"029","Child Stopped scan",NA,NA,"hap","2","hap",2
+"030","Child Refused",NA,NA,"hap","2","hap",1
+"033","Yes",1,1,"hap","2","hap",2
+"034","Yes",1,1,"hap","2","hap",3
+"035","Yes",1,1,"hap","2","hap",3
+"036","Yes",1,1,"hap","2","hap",1
+"037","Yes",1,1,"hap","2","hap",2
+"038","Yes",NA,NA,"hap","2","hap",3
+"039","Yes",1,1,"hap","2","hap",2
+"040","Yes",NA,NA,"hap","2","hap",2
+"041","Yes",NA,NA,"hap","2","hap",2
+"042","Yes",NA,1,"hap","2","hap",3
+"043","Child Stopped scan",NA,NA,"hap","2","hap",4
+"045","Yes",1,1,"hap","2","hap",4
+"046","Yes",1,1,"hap","2","hap",2
+"001","Child Stopped scan",NA,NA,"hap","3","hap",NA
+"002","Yes",NA,NA,"hap","3","hap",NA
+"003","Yes",NA,NA,"hap","3","hap",NA
+"004","Yes",NA,NA,"hap","3","hap",1
+"005","Yes",NA,1,"hap","3","hap",2
+"007","Yes",NA,NA,"hap","3","hap",1
+"008","Yes",1,1,"hap","3","hap",3
+"009","Yes",1,1,"hap","3","hap",3
+"012","Yes",NA,NA,"hap","3","hap",2
+"013","Yes",1,1,"hap","3","hap",1
+"014","No Data due to Experimentor Error",NA,NA,"hap","3","hap",3
+"015","No Data due to Experimentor Error",NA,NA,"hap","3","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"hap","3","hap",4
+"017","Yes",NA,NA,"hap","3","hap",4
+"018","Yes",NA,NA,"hap","3","hap",4
+"020","Child Stopped scan",NA,NA,"hap","3","hap",1
+"021","Yes",1,1,"hap","3","hap",2
+"022","Child Refused",NA,NA,"hap","3","hap",3
+"023","Child Refused",NA,NA,"hap","3","hap",4
+"024","Yes",NA,NA,"hap","3","hap",4
+"025","Yes",NA,NA,"hap","3","hap",2
+"026","Yes",NA,NA,"hap","3","hap",2
+"027","Yes",1,1,"hap","3","hap",4
+"028","Yes",1,1,"hap","3","hap",3
+"029","Child Stopped scan",NA,NA,"hap","3","hap",3
+"030","Child Refused",NA,NA,"hap","3","hap",1
+"033","Yes",1,1,"hap","3","hap",1
+"034","Yes",1,1,"hap","3","hap",1
+"035","Yes",1,1,"hap","3","hap",3
+"036","Yes",1,1,"hap","3","hap",4
+"037","Yes",1,1,"hap","3","hap",4
+"038","Yes",NA,NA,"hap","3","hap",3
+"039","Yes",1,1,"hap","3","hap",3
+"040","Yes",NA,NA,"hap","3","hap",3
+"041","Yes",NA,NA,"hap","3","hap",3
+"042","Yes",NA,1,"hap","3","hap",4
+"043","Child Stopped scan",NA,NA,"hap","3","hap",1
+"045","Yes",1,1,"hap","3","hap",4
+"046","Yes",1,1,"hap","3","hap",2
+"001","Child Stopped scan",NA,NA,"hap","4","hap",NA
+"002","Yes",NA,NA,"hap","4","hap",NA
+"003","Yes",NA,NA,"hap","4","hap",NA
+"004","Yes",NA,NA,"hap","4","hap",2
+"005","Yes",NA,1,"hap","4","hap",3
+"007","Yes",NA,NA,"hap","4","hap",2
+"008","Yes",1,1,"hap","4","hap",2
+"009","Yes",1,1,"hap","4","hap",2
+"012","Yes",NA,NA,"hap","4","hap",3
+"013","Yes",1,1,"hap","4","hap",4
+"014","No Data due to Experimentor Error",NA,NA,"hap","4","hap",2
+"015","No Data due to Experimentor Error",NA,NA,"hap","4","hap",1
+"016","No Data due to Experimentor Error",NA,NA,"hap","4","hap",1
+"017","Yes",NA,NA,"hap","4","hap",1
+"018","Yes",NA,NA,"hap","4","hap",4
+"020","Child Stopped scan",NA,NA,"hap","4","hap",4
+"021","Yes",1,1,"hap","4","hap",3
+"022","Child Refused",NA,NA,"hap","4","hap",1
+"023","Child Refused",NA,NA,"hap","4","hap",2
+"024","Yes",NA,NA,"hap","4","hap",4
+"025","Yes",NA,NA,"hap","4","hap",2
+"026","Yes",NA,NA,"hap","4","hap",1
+"027","Yes",1,1,"hap","4","hap",3
+"028","Yes",1,1,"hap","4","hap",2
+"029","Child Stopped scan",NA,NA,"hap","4","hap",2
+"030","Child Refused",NA,NA,"hap","4","hap",2
+"033","Yes",1,1,"hap","4","hap",2
+"034","Yes",1,1,"hap","4","hap",3
+"035","Yes",1,1,"hap","4","hap",2
+"036","Yes",1,1,"hap","4","hap",4
+"037","Yes",1,1,"hap","4","hap",3
+"038","Yes",NA,NA,"hap","4","hap",3
+"039","Yes",1,1,"hap","4","hap",2
+"040","Yes",NA,NA,"hap","4","hap",2
+"041","Yes",NA,NA,"hap","4","hap",3
+"042","Yes",NA,1,"hap","4","hap",3
+"043","Child Stopped scan",NA,NA,"hap","4","hap",4
+"045","Yes",1,1,"hap","4","hap",4
+"046","Yes",1,1,"hap","4","hap",3

@@ -1,937 +1,1 @@
-"pid","awake.data.collected","collected.run1","collected.run2","prosody","script.num","rating.type","ratings"
-"001","Child Stopped scan",NA,NA,"neu","1","ang",NA
-"002","Yes",NA,NA,"neu","1","ang",NA
-"003","Yes",NA,NA,"neu","1","ang",NA
-"004","Yes",NA,NA,"neu","1","ang",2
-"005","Yes",NA,1,"neu","1","ang",2
-"007","Yes",NA,NA,"neu","1","ang",2
-"008","Yes",1,1,"neu","1","ang",1
-"009","Yes",1,1,"neu","1","ang",2
-"012","Yes",NA,NA,"neu","1","ang",1
-"013","Yes",1,1,"neu","1","ang",1
-"014","No Data due to Experimentor Error",NA,NA,"neu","1","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","1","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"neu","1","ang",1
-"017","Yes",NA,NA,"neu","1","ang",1
-"018","Yes",NA,NA,"neu","1","ang",2
-"020","Child Stopped scan",NA,NA,"neu","1","ang",2
-"021","Yes",1,1,"neu","1","ang",1
-"022","Child Refused",NA,NA,"neu","1","ang",1
-"023","Child Refused",NA,NA,"neu","1","ang",2
-"024","Yes",NA,NA,"neu","1","ang",1
-"025","Yes",NA,NA,"neu","1","ang",1
-"026","Yes",NA,NA,"neu","1","ang",2
-"027","Yes",1,1,"neu","1","ang",1
-"028","Yes",1,1,"neu","1","ang",1
-"029","Child Stopped scan",NA,NA,"neu","1","ang",1
-"030","Child Refused",NA,NA,"neu","1","ang",2
-"033","Yes",1,1,"neu","1","ang",1
-"034","Yes",1,1,"neu","1","ang",2
-"035","Yes",1,1,"neu","1","ang",1
-"036","Yes",1,1,"neu","1","ang",4
-"037","Yes",1,1,"neu","1","ang",2
-"038","Yes",NA,NA,"neu","1","ang",1
-"039","Yes",1,1,"neu","1","ang",1
-"040","Yes",NA,NA,"neu","1","ang",1
-"041","Yes",NA,NA,"neu","1","ang",3
-"042","Yes",NA,1,"neu","1","ang",1
-"043","Child Stopped scan",NA,NA,"neu","1","ang",2
-"045","Yes",1,1,"neu","1","ang",1
-"046","Yes",1,1,"neu","1","ang",1
-"001","Child Stopped scan",NA,NA,"neu","2","ang",NA
-"002","Yes",NA,NA,"neu","2","ang",NA
-"003","Yes",NA,NA,"neu","2","ang",NA
-"004","Yes",NA,NA,"neu","2","ang",2
-"005","Yes",NA,1,"neu","2","ang",2
-"007","Yes",NA,NA,"neu","2","ang",1
-"008","Yes",1,1,"neu","2","ang",1
-"009","Yes",1,1,"neu","2","ang",1
-"012","Yes",NA,NA,"neu","2","ang",2
-"013","Yes",1,1,"neu","2","ang",2
-"014","No Data due to Experimentor Error",NA,NA,"neu","2","ang",1
-"015","No Data due to Experimentor Error",NA,NA,"neu","2","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"neu","2","ang",1
-"017","Yes",NA,NA,"neu","2","ang",1
-"018","Yes",NA,NA,"neu","2","ang",1
-"020","Child Stopped scan",NA,NA,"neu","2","ang",1
-"021","Yes",1,1,"neu","2","ang",1
-"022","Child Refused",NA,NA,"neu","2","ang",2
-"023","Child Refused",NA,NA,"neu","2","ang",2
-"024","Yes",NA,NA,"neu","2","ang",1
-"025","Yes",NA,NA,"neu","2","ang",2
-"026","Yes",NA,NA,"neu","2","ang",1
-"027","Yes",1,1,"neu","2","ang",2
-"028","Yes",1,1,"neu","2","ang",1
-"029","Child Stopped scan",NA,NA,"neu","2","ang",3
-"030","Child Refused",NA,NA,"neu","2","ang",2
-"033","Yes",1,1,"neu","2","ang",1
-"034","Yes",1,1,"neu","2","ang",1
-"035","Yes",1,1,"neu","2","ang",1
-"036","Yes",1,1,"neu","2","ang",1
-"037","Yes",1,1,"neu","2","ang",1
-"038","Yes",NA,NA,"neu","2","ang",2
-"039","Yes",1,1,"neu","2","ang",1
-"040","Yes",NA,NA,"neu","2","ang",1
-"041","Yes",NA,NA,"neu","2","ang",2
-"042","Yes",NA,1,"neu","2","ang",1
-"043","Child Stopped scan",NA,NA,"neu","2","ang",1
-"045","Yes",1,1,"neu","2","ang",1
-"046","Yes",1,1,"neu","2","ang",1
-"001","Child Stopped scan",NA,NA,"neu","3","ang",NA
-"002","Yes",NA,NA,"neu","3","ang",NA
-"003","Yes",NA,NA,"neu","3","ang",NA
-"004","Yes",NA,NA,"neu","3","ang",2
-"005","Yes",NA,1,"neu","3","ang",2
-"007","Yes",NA,NA,"neu","3","ang",2
-"008","Yes",1,1,"neu","3","ang",2
-"009","Yes",1,1,"neu","3","ang",2
-"012","Yes",NA,NA,"neu","3","ang",2
-"013","Yes",1,1,"neu","3","ang",3
-"014","No Data due to Experimentor Error",NA,NA,"neu","3","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","3","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"neu","3","ang",1
-"017","Yes",NA,NA,"neu","3","ang",1
-"018","Yes",NA,NA,"neu","3","ang",2
-"020","Child Stopped scan",NA,NA,"neu","3","ang",3
-"021","Yes",1,1,"neu","3","ang",2
-"022","Child Refused",NA,NA,"neu","3","ang",2
-"023","Child Refused",NA,NA,"neu","3","ang",1
-"024","Yes",NA,NA,"neu","3","ang",1
-"025","Yes",NA,NA,"neu","3","ang",2
-"026","Yes",NA,NA,"neu","3","ang",1
-"027","Yes",1,1,"neu","3","ang",1
-"028","Yes",1,1,"neu","3","ang",2
-"029","Child Stopped scan",NA,NA,"neu","3","ang",1
-"030","Child Refused",NA,NA,"neu","3","ang",2
-"033","Yes",1,1,"neu","3","ang",1
-"034","Yes",1,1,"neu","3","ang",2
-"035","Yes",1,1,"neu","3","ang",2
-"036","Yes",1,1,"neu","3","ang",3
-"037","Yes",1,1,"neu","3","ang",3
-"038","Yes",NA,NA,"neu","3","ang",2
-"039","Yes",1,1,"neu","3","ang",1
-"040","Yes",NA,NA,"neu","3","ang",1
-"041","Yes",NA,NA,"neu","3","ang",2
-"042","Yes",NA,1,"neu","3","ang",2
-"043","Child Stopped scan",NA,NA,"neu","3","ang",1
-"045","Yes",1,1,"neu","3","ang",1
-"046","Yes",1,1,"neu","3","ang",1
-"001","Child Stopped scan",NA,NA,"neu","4","ang",NA
-"002","Yes",NA,NA,"neu","4","ang",NA
-"003","Yes",NA,NA,"neu","4","ang",NA
-"004","Yes",NA,NA,"neu","4","ang",2
-"005","Yes",NA,1,"neu","4","ang",1
-"007","Yes",NA,NA,"neu","4","ang",2
-"008","Yes",1,1,"neu","4","ang",2
-"009","Yes",1,1,"neu","4","ang",2
-"012","Yes",NA,NA,"neu","4","ang",2
-"013","Yes",1,1,"neu","4","ang",2
-"014","No Data due to Experimentor Error",NA,NA,"neu","4","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","4","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"neu","4","ang",4
-"017","Yes",NA,NA,"neu","4","ang",1
-"018","Yes",NA,NA,"neu","4","ang",2
-"020","Child Stopped scan",NA,NA,"neu","4","ang",2
-"021","Yes",1,1,"neu","4","ang",1
-"022","Child Refused",NA,NA,"neu","4","ang",1
-"023","Child Refused",NA,NA,"neu","4","ang",2
-"024","Yes",NA,NA,"neu","4","ang",1
-"025","Yes",NA,NA,"neu","4","ang",3
-"026","Yes",NA,NA,"neu","4","ang",2
-"027","Yes",1,1,"neu","4","ang",1
-"028","Yes",1,1,"neu","4","ang",1
-"029","Child Stopped scan",NA,NA,"neu","4","ang",2
-"030","Child Refused",NA,NA,"neu","4","ang",2
-"033","Yes",1,1,"neu","4","ang",1
-"034","Yes",1,1,"neu","4","ang",1
-"035","Yes",1,1,"neu","4","ang",1
-"036","Yes",1,1,"neu","4","ang",1
-"037","Yes",1,1,"neu","4","ang",2
-"038","Yes",NA,NA,"neu","4","ang",1
-"039","Yes",1,1,"neu","4","ang",1
-"040","Yes",NA,NA,"neu","4","ang",1
-"041","Yes",NA,NA,"neu","4","ang",1
-"042","Yes",NA,1,"neu","4","ang",2
-"043","Child Stopped scan",NA,NA,"neu","4","ang",1
-"045","Yes",1,1,"neu","4","ang",1
-"046","Yes",1,1,"neu","4","ang",3
-"001","Child Stopped scan",NA,NA,"neu","1","hap",NA
-"002","Yes",NA,NA,"neu","1","hap",NA
-"003","Yes",NA,NA,"neu","1","hap",NA
-"004","Yes",NA,NA,"neu","1","hap",2
-"005","Yes",NA,1,"neu","1","hap",2
-"007","Yes",NA,NA,"neu","1","hap",1
-"008","Yes",1,1,"neu","1","hap",1
-"009","Yes",1,1,"neu","1","hap",2
-"012","Yes",NA,NA,"neu","1","hap",2
-"013","Yes",1,1,"neu","1","hap",4
-"014","No Data due to Experimentor Error",NA,NA,"neu","1","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","1","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"neu","1","hap",4
-"017","Yes",NA,NA,"neu","1","hap",2
-"018","Yes",NA,NA,"neu","1","hap",2
-"020","Child Stopped scan",NA,NA,"neu","1","hap",2
-"021","Yes",1,1,"neu","1","hap",1
-"022","Child Refused",NA,NA,"neu","1","hap",1
-"023","Child Refused",NA,NA,"neu","1","hap",3
-"024","Yes",NA,NA,"neu","1","hap",2
-"025","Yes",NA,NA,"neu","1","hap",1
-"026","Yes",NA,NA,"neu","1","hap",1
-"027","Yes",1,1,"neu","1","hap",2
-"028","Yes",1,1,"neu","1","hap",2
-"029","Child Stopped scan",NA,NA,"neu","1","hap",2
-"030","Child Refused",NA,NA,"neu","1","hap",1
-"033","Yes",1,1,"neu","1","hap",1
-"034","Yes",1,1,"neu","1","hap",2
-"035","Yes",1,1,"neu","1","hap",1
-"036","Yes",1,1,"neu","1","hap",1
-"037","Yes",1,1,"neu","1","hap",2
-"038","Yes",NA,NA,"neu","1","hap",1
-"039","Yes",1,1,"neu","1","hap",1
-"040","Yes",NA,NA,"neu","1","hap",1
-"041","Yes",NA,NA,"neu","1","hap",2
-"042","Yes",NA,1,"neu","1","hap",3
-"043","Child Stopped scan",NA,NA,"neu","1","hap",1
-"045","Yes",1,1,"neu","1","hap",1
-"046","Yes",1,1,"neu","1","hap",3
-"001","Child Stopped scan",NA,NA,"neu","2","hap",NA
-"002","Yes",NA,NA,"neu","2","hap",NA
-"003","Yes",NA,NA,"neu","2","hap",NA
-"004","Yes",NA,NA,"neu","2","hap",1
-"005","Yes",NA,1,"neu","2","hap",2
-"007","Yes",NA,NA,"neu","2","hap",2
-"008","Yes",1,1,"neu","2","hap",1
-"009","Yes",1,1,"neu","2","hap",2
-"012","Yes",NA,NA,"neu","2","hap",3
-"013","Yes",1,1,"neu","2","hap",4
-"014","No Data due to Experimentor Error",NA,NA,"neu","2","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","2","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"neu","2","hap",3
-"017","Yes",NA,NA,"neu","2","hap",2
-"018","Yes",NA,NA,"neu","2","hap",2
-"020","Child Stopped scan",NA,NA,"neu","2","hap",1
-"021","Yes",1,1,"neu","2","hap",1
-"022","Child Refused",NA,NA,"neu","2","hap",2
-"023","Child Refused",NA,NA,"neu","2","hap",2
-"024","Yes",NA,NA,"neu","2","hap",2
-"025","Yes",NA,NA,"neu","2","hap",1
-"026","Yes",NA,NA,"neu","2","hap",1
-"027","Yes",1,1,"neu","2","hap",2
-"028","Yes",1,1,"neu","2","hap",2
-"029","Child Stopped scan",NA,NA,"neu","2","hap",2
-"030","Child Refused",NA,NA,"neu","2","hap",1
-"033","Yes",1,1,"neu","2","hap",1
-"034","Yes",1,1,"neu","2","hap",2
-"035","Yes",1,1,"neu","2","hap",1
-"036","Yes",1,1,"neu","2","hap",1
-"037","Yes",1,1,"neu","2","hap",3
-"038","Yes",NA,NA,"neu","2","hap",2
-"039","Yes",1,1,"neu","2","hap",1
-"040","Yes",NA,NA,"neu","2","hap",1
-"041","Yes",NA,NA,"neu","2","hap",1
-"042","Yes",NA,1,"neu","2","hap",3
-"043","Child Stopped scan",NA,NA,"neu","2","hap",2
-"045","Yes",1,1,"neu","2","hap",1
-"046","Yes",1,1,"neu","2","hap",1
-"001","Child Stopped scan",NA,NA,"neu","3","hap",NA
-"002","Yes",NA,NA,"neu","3","hap",NA
-"003","Yes",NA,NA,"neu","3","hap",NA
-"004","Yes",NA,NA,"neu","3","hap",1
-"005","Yes",NA,1,"neu","3","hap",2
-"007","Yes",NA,NA,"neu","3","hap",2
-"008","Yes",1,1,"neu","3","hap",1
-"009","Yes",1,1,"neu","3","hap",1
-"012","Yes",NA,NA,"neu","3","hap",1
-"013","Yes",1,1,"neu","3","hap",2
-"014","No Data due to Experimentor Error",NA,NA,"neu","3","hap",1
-"015","No Data due to Experimentor Error",NA,NA,"neu","3","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"neu","3","hap",2
-"017","Yes",NA,NA,"neu","3","hap",1
-"018","Yes",NA,NA,"neu","3","hap",2
-"020","Child Stopped scan",NA,NA,"neu","3","hap",3
-"021","Yes",1,1,"neu","3","hap",1
-"022","Child Refused",NA,NA,"neu","3","hap",1
-"023","Child Refused",NA,NA,"neu","3","hap",2
-"024","Yes",NA,NA,"neu","3","hap",1
-"025","Yes",NA,NA,"neu","3","hap",1
-"026","Yes",NA,NA,"neu","3","hap",1
-"027","Yes",1,1,"neu","3","hap",1
-"028","Yes",1,1,"neu","3","hap",1
-"029","Child Stopped scan",NA,NA,"neu","3","hap",2
-"030","Child Refused",NA,NA,"neu","3","hap",1
-"033","Yes",1,1,"neu","3","hap",1
-"034","Yes",1,1,"neu","3","hap",3
-"035","Yes",1,1,"neu","3","hap",1
-"036","Yes",1,1,"neu","3","hap",1
-"037","Yes",1,1,"neu","3","hap",2
-"038","Yes",NA,NA,"neu","3","hap",3
-"039","Yes",1,1,"neu","3","hap",1
-"040","Yes",NA,NA,"neu","3","hap",1
-"041","Yes",NA,NA,"neu","3","hap",1
-"042","Yes",NA,1,"neu","3","hap",3
-"043","Child Stopped scan",NA,NA,"neu","3","hap",4
-"045","Yes",1,1,"neu","3","hap",1
-"046","Yes",1,1,"neu","3","hap",2
-"001","Child Stopped scan",NA,NA,"neu","4","hap",NA
-"002","Yes",NA,NA,"neu","4","hap",NA
-"003","Yes",NA,NA,"neu","4","hap",NA
-"004","Yes",NA,NA,"neu","4","hap",2
-"005","Yes",NA,1,"neu","4","hap",3
-"007","Yes",NA,NA,"neu","4","hap",2
-"008","Yes",1,1,"neu","4","hap",2
-"009","Yes",1,1,"neu","4","hap",2
-"012","Yes",NA,NA,"neu","4","hap",2
-"013","Yes",1,1,"neu","4","hap",2
-"014","No Data due to Experimentor Error",NA,NA,"neu","4","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"neu","4","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"neu","4","hap",1
-"017","Yes",NA,NA,"neu","4","hap",2
-"018","Yes",NA,NA,"neu","4","hap",3
-"020","Child Stopped scan",NA,NA,"neu","4","hap",2
-"021","Yes",1,1,"neu","4","hap",1
-"022","Child Refused",NA,NA,"neu","4","hap",1
-"023","Child Refused",NA,NA,"neu","4","hap",2
-"024","Yes",NA,NA,"neu","4","hap",2
-"025","Yes",NA,NA,"neu","4","hap",1
-"026","Yes",NA,NA,"neu","4","hap",1
-"027","Yes",1,1,"neu","4","hap",2
-"028","Yes",1,1,"neu","4","hap",2
-"029","Child Stopped scan",NA,NA,"neu","4","hap",2
-"030","Child Refused",NA,NA,"neu","4","hap",2
-"033","Yes",1,1,"neu","4","hap",1
-"034","Yes",1,1,"neu","4","hap",3
-"035","Yes",1,1,"neu","4","hap",1
-"036","Yes",1,1,"neu","4","hap",1
-"037","Yes",1,1,"neu","4","hap",3
-"038","Yes",NA,NA,"neu","4","hap",1
-"039","Yes",1,1,"neu","4","hap",1
-"040","Yes",NA,NA,"neu","4","hap",1
-"041","Yes",NA,NA,"neu","4","hap",2
-"042","Yes",NA,1,"neu","4","hap",2
-"043","Child Stopped scan",NA,NA,"neu","4","hap",1
-"045","Yes",1,1,"neu","4","hap",2
-"046","Yes",1,1,"neu","4","hap",2
-"001","Child Stopped scan",NA,NA,"ang","1","ang",NA
-"002","Yes",NA,NA,"ang","1","ang",NA
-"003","Yes",NA,NA,"ang","1","ang",NA
-"004","Yes",NA,NA,"ang","1","ang",4
-"005","Yes",NA,1,"ang","1","ang",3
-"007","Yes",NA,NA,"ang","1","ang",3
-"008","Yes",1,1,"ang","1","ang",4
-"009","Yes",1,1,"ang","1","ang",3
-"012","Yes",NA,NA,"ang","1","ang",4
-"013","Yes",1,1,"ang","1","ang",4
-"014","No Data due to Experimentor Error",NA,NA,"ang","1","ang",4
-"015","No Data due to Experimentor Error",NA,NA,"ang","1","ang",4
-"016","No Data due to Experimentor Error",NA,NA,"ang","1","ang",3
-"017","Yes",NA,NA,"ang","1","ang",3
-"018","Yes",NA,NA,"ang","1","ang",3
-"020","Child Stopped scan",NA,NA,"ang","1","ang",1
-"021","Yes",1,1,"ang","1","ang",3
-"022","Child Refused",NA,NA,"ang","1","ang",3
-"023","Child Refused",NA,NA,"ang","1","ang",3
-"024","Yes",NA,NA,"ang","1","ang",4
-"025","Yes",NA,NA,"ang","1","ang",1
-"026","Yes",NA,NA,"ang","1","ang",2
-"027","Yes",1,1,"ang","1","ang",4
-"028","Yes",1,1,"ang","1","ang",3
-"029","Child Stopped scan",NA,NA,"ang","1","ang",3
-"030","Child Refused",NA,NA,"ang","1","ang",3
-"033","Yes",1,1,"ang","1","ang",2
-"034","Yes",1,1,"ang","1","ang",3
-"035","Yes",1,1,"ang","1","ang",3
-"036","Yes",1,1,"ang","1","ang",4
-"037","Yes",1,1,"ang","1","ang",3
-"038","Yes",NA,NA,"ang","1","ang",4
-"039","Yes",1,1,"ang","1","ang",2
-"040","Yes",NA,NA,"ang","1","ang",3
-"041","Yes",NA,NA,"ang","1","ang",4
-"042","Yes",NA,1,"ang","1","ang",1
-"043","Child Stopped scan",NA,NA,"ang","1","ang",4
-"045","Yes",1,1,"ang","1","ang",4
-"046","Yes",1,1,"ang","1","ang",3
-"001","Child Stopped scan",NA,NA,"ang","2","ang",NA
-"002","Yes",NA,NA,"ang","2","ang",NA
-"003","Yes",NA,NA,"ang","2","ang",NA
-"004","Yes",NA,NA,"ang","2","ang",4
-"005","Yes",NA,1,"ang","2","ang",3
-"007","Yes",NA,NA,"ang","2","ang",3
-"008","Yes",1,1,"ang","2","ang",2
-"009","Yes",1,1,"ang","2","ang",1
-"012","Yes",NA,NA,"ang","2","ang",4
-"013","Yes",1,1,"ang","2","ang",4
-"014","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
-"015","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
-"016","No Data due to Experimentor Error",NA,NA,"ang","2","ang",4
-"017","Yes",NA,NA,"ang","2","ang",2
-"018","Yes",NA,NA,"ang","2","ang",3
-"020","Child Stopped scan",NA,NA,"ang","2","ang",4
-"021","Yes",1,1,"ang","2","ang",4
-"022","Child Refused",NA,NA,"ang","2","ang",3
-"023","Child Refused",NA,NA,"ang","2","ang",4
-"024","Yes",NA,NA,"ang","2","ang",3
-"025","Yes",NA,NA,"ang","2","ang",4
-"026","Yes",NA,NA,"ang","2","ang",2
-"027","Yes",1,1,"ang","2","ang",4
-"028","Yes",1,1,"ang","2","ang",2
-"029","Child Stopped scan",NA,NA,"ang","2","ang",4
-"030","Child Refused",NA,NA,"ang","2","ang",3
-"033","Yes",1,1,"ang","2","ang",2
-"034","Yes",1,1,"ang","2","ang",3
-"035","Yes",1,1,"ang","2","ang",4
-"036","Yes",1,1,"ang","2","ang",4
-"037","Yes",1,1,"ang","2","ang",3
-"038","Yes",NA,NA,"ang","2","ang",4
-"039","Yes",1,1,"ang","2","ang",2
-"040","Yes",NA,NA,"ang","2","ang",3
-"041","Yes",NA,NA,"ang","2","ang",4
-"042","Yes",NA,1,"ang","2","ang",3
-"043","Child Stopped scan",NA,NA,"ang","2","ang",4
-"045","Yes",1,1,"ang","2","ang",4
-"046","Yes",1,1,"ang","2","ang",4
-"001","Child Stopped scan",NA,NA,"ang","3","ang",NA
-"002","Yes",NA,NA,"ang","3","ang",NA
-"003","Yes",NA,NA,"ang","3","ang",NA
-"004","Yes",NA,NA,"ang","3","ang",4
-"005","Yes",NA,1,"ang","3","ang",3
-"007","Yes",NA,NA,"ang","3","ang",4
-"008","Yes",1,1,"ang","3","ang",3
-"009","Yes",1,1,"ang","3","ang",2
-"012","Yes",NA,NA,"ang","3","ang",3
-"013","Yes",1,1,"ang","3","ang",4
-"014","No Data due to Experimentor Error",NA,NA,"ang","3","ang",4
-"015","No Data due to Experimentor Error",NA,NA,"ang","3","ang",4
-"016","No Data due to Experimentor Error",NA,NA,"ang","3","ang",2
-"017","Yes",NA,NA,"ang","3","ang",2
-"018","Yes",NA,NA,"ang","3","ang",2
-"020","Child Stopped scan",NA,NA,"ang","3","ang",4
-"021","Yes",1,1,"ang","3","ang",4
-"022","Child Refused",NA,NA,"ang","3","ang",4
-"023","Child Refused",NA,NA,"ang","3","ang",4
-"024","Yes",NA,NA,"ang","3","ang",3
-"025","Yes",NA,NA,"ang","3","ang",3
-"026","Yes",NA,NA,"ang","3","ang",3
-"027","Yes",1,1,"ang","3","ang",4
-"028","Yes",1,1,"ang","3","ang",2
-"029","Child Stopped scan",NA,NA,"ang","3","ang",3
-"030","Child Refused",NA,NA,"ang","3","ang",3
-"033","Yes",1,1,"ang","3","ang",3
-"034","Yes",1,1,"ang","3","ang",3
-"035","Yes",1,1,"ang","3","ang",2
-"036","Yes",1,1,"ang","3","ang",4
-"037","Yes",1,1,"ang","3","ang",2
-"038","Yes",NA,NA,"ang","3","ang",3
-"039","Yes",1,1,"ang","3","ang",2
-"040","Yes",NA,NA,"ang","3","ang",3
-"041","Yes",NA,NA,"ang","3","ang",4
-"042","Yes",NA,1,"ang","3","ang",2
-"043","Child Stopped scan",NA,NA,"ang","3","ang",4
-"045","Yes",1,1,"ang","3","ang",4
-"046","Yes",1,1,"ang","3","ang",4
-"001","Child Stopped scan",NA,NA,"ang","4","ang",NA
-"002","Yes",NA,NA,"ang","4","ang",NA
-"003","Yes",NA,NA,"ang","4","ang",NA
-"004","Yes",NA,NA,"ang","4","ang",4
-"005","Yes",NA,1,"ang","4","ang",4
-"007","Yes",NA,NA,"ang","4","ang",3
-"008","Yes",1,1,"ang","4","ang",3
-"009","Yes",1,1,"ang","4","ang",3
-"012","Yes",NA,NA,"ang","4","ang",4
-"013","Yes",1,1,"ang","4","ang",3
-"014","No Data due to Experimentor Error",NA,NA,"ang","4","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"ang","4","ang",4
-"016","No Data due to Experimentor Error",NA,NA,"ang","4","ang",4
-"017","Yes",NA,NA,"ang","4","ang",3
-"018","Yes",NA,NA,"ang","4","ang",2
-"020","Child Stopped scan",NA,NA,"ang","4","ang",4
-"021","Yes",1,1,"ang","4","ang",3
-"022","Child Refused",NA,NA,"ang","4","ang",3
-"023","Child Refused",NA,NA,"ang","4","ang",4
-"024","Yes",NA,NA,"ang","4","ang",4
-"025","Yes",NA,NA,"ang","4","ang",1
-"026","Yes",NA,NA,"ang","4","ang",3
-"027","Yes",1,1,"ang","4","ang",4
-"028","Yes",1,1,"ang","4","ang",4
-"029","Child Stopped scan",NA,NA,"ang","4","ang",4
-"030","Child Refused",NA,NA,"ang","4","ang",2
-"033","Yes",1,1,"ang","4","ang",4
-"034","Yes",1,1,"ang","4","ang",4
-"035","Yes",1,1,"ang","4","ang",3
-"036","Yes",1,1,"ang","4","ang",4
-"037","Yes",1,1,"ang","4","ang",4
-"038","Yes",NA,NA,"ang","4","ang",4
-"039","Yes",1,1,"ang","4","ang",3
-"040","Yes",NA,NA,"ang","4","ang",3
-"041","Yes",NA,NA,"ang","4","ang",4
-"042","Yes",NA,1,"ang","4","ang",3
-"043","Child Stopped scan",NA,NA,"ang","4","ang",4
-"045","Yes",1,1,"ang","4","ang",4
-"046","Yes",1,1,"ang","4","ang",3
-"001","Child Stopped scan",NA,NA,"ang","1","hap",NA
-"002","Yes",NA,NA,"ang","1","hap",NA
-"003","Yes",NA,NA,"ang","1","hap",NA
-"004","Yes",NA,NA,"ang","1","hap",1
-"005","Yes",NA,1,"ang","1","hap",2
-"007","Yes",NA,NA,"ang","1","hap",1
-"008","Yes",1,1,"ang","1","hap",1
-"009","Yes",1,1,"ang","1","hap",1
-"012","Yes",NA,NA,"ang","1","hap",1
-"013","Yes",1,1,"ang","1","hap",1
-"014","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
-"015","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"ang","1","hap",1
-"017","Yes",NA,NA,"ang","1","hap",1
-"018","Yes",NA,NA,"ang","1","hap",2
-"020","Child Stopped scan",NA,NA,"ang","1","hap",1
-"021","Yes",1,1,"ang","1","hap",1
-"022","Child Refused",NA,NA,"ang","1","hap",1
-"023","Child Refused",NA,NA,"ang","1","hap",3
-"024","Yes",NA,NA,"ang","1","hap",1
-"025","Yes",NA,NA,"ang","1","hap",1
-"026","Yes",NA,NA,"ang","1","hap",1
-"027","Yes",1,1,"ang","1","hap",1
-"028","Yes",1,1,"ang","1","hap",1
-"029","Child Stopped scan",NA,NA,"ang","1","hap",1
-"030","Child Refused",NA,NA,"ang","1","hap",2
-"033","Yes",1,1,"ang","1","hap",1
-"034","Yes",1,1,"ang","1","hap",2
-"035","Yes",1,1,"ang","1","hap",1
-"036","Yes",1,1,"ang","1","hap",1
-"037","Yes",1,1,"ang","1","hap",2
-"038","Yes",NA,NA,"ang","1","hap",4
-"039","Yes",1,1,"ang","1","hap",1
-"040","Yes",NA,NA,"ang","1","hap",1
-"041","Yes",NA,NA,"ang","1","hap",1
-"042","Yes",NA,1,"ang","1","hap",3
-"043","Child Stopped scan",NA,NA,"ang","1","hap",1
-"045","Yes",1,1,"ang","1","hap",1
-"046","Yes",1,1,"ang","1","hap",1
-"001","Child Stopped scan",NA,NA,"ang","2","hap",NA
-"002","Yes",NA,NA,"ang","2","hap",NA
-"003","Yes",NA,NA,"ang","2","hap",NA
-"004","Yes",NA,NA,"ang","2","hap",1
-"005","Yes",NA,1,"ang","2","hap",1
-"007","Yes",NA,NA,"ang","2","hap",1
-"008","Yes",1,1,"ang","2","hap",1
-"009","Yes",1,1,"ang","2","hap",1
-"012","Yes",NA,NA,"ang","2","hap",1
-"013","Yes",1,1,"ang","2","hap",1
-"014","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
-"015","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"ang","2","hap",1
-"017","Yes",NA,NA,"ang","2","hap",1
-"018","Yes",NA,NA,"ang","2","hap",1
-"020","Child Stopped scan",NA,NA,"ang","2","hap",1
-"021","Yes",1,1,"ang","2","hap",1
-"022","Child Refused",NA,NA,"ang","2","hap",1
-"023","Child Refused",NA,NA,"ang","2","hap",1
-"024","Yes",NA,NA,"ang","2","hap",1
-"025","Yes",NA,NA,"ang","2","hap",1
-"026","Yes",NA,NA,"ang","2","hap",1
-"027","Yes",1,1,"ang","2","hap",1
-"028","Yes",1,1,"ang","2","hap",1
-"029","Child Stopped scan",NA,NA,"ang","2","hap",1
-"030","Child Refused",NA,NA,"ang","2","hap",1
-"033","Yes",1,1,"ang","2","hap",1
-"034","Yes",1,1,"ang","2","hap",1
-"035","Yes",1,1,"ang","2","hap",1
-"036","Yes",1,1,"ang","2","hap",1
-"037","Yes",1,1,"ang","2","hap",2
-"038","Yes",NA,NA,"ang","2","hap",3
-"039","Yes",1,1,"ang","2","hap",1
-"040","Yes",NA,NA,"ang","2","hap",1
-"041","Yes",NA,NA,"ang","2","hap",1
-"042","Yes",NA,1,"ang","2","hap",1
-"043","Child Stopped scan",NA,NA,"ang","2","hap",1
-"045","Yes",1,1,"ang","2","hap",1
-"046","Yes",1,1,"ang","2","hap",1
-"001","Child Stopped scan",NA,NA,"ang","3","hap",NA
-"002","Yes",NA,NA,"ang","3","hap",NA
-"003","Yes",NA,NA,"ang","3","hap",NA
-"004","Yes",NA,NA,"ang","3","hap",1
-"005","Yes",NA,1,"ang","3","hap",2
-"007","Yes",NA,NA,"ang","3","hap",1
-"008","Yes",1,1,"ang","3","hap",1
-"009","Yes",1,1,"ang","3","hap",1
-"012","Yes",NA,NA,"ang","3","hap",1
-"013","Yes",1,1,"ang","3","hap",1
-"014","No Data due to Experimentor Error",NA,NA,"ang","3","hap",1
-"015","No Data due to Experimentor Error",NA,NA,"ang","3","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"ang","3","hap",2
-"017","Yes",NA,NA,"ang","3","hap",1
-"018","Yes",NA,NA,"ang","3","hap",3
-"020","Child Stopped scan",NA,NA,"ang","3","hap",1
-"021","Yes",1,1,"ang","3","hap",1
-"022","Child Refused",NA,NA,"ang","3","hap",1
-"023","Child Refused",NA,NA,"ang","3","hap",1
-"024","Yes",NA,NA,"ang","3","hap",1
-"025","Yes",NA,NA,"ang","3","hap",1
-"026","Yes",NA,NA,"ang","3","hap",1
-"027","Yes",1,1,"ang","3","hap",1
-"028","Yes",1,1,"ang","3","hap",1
-"029","Child Stopped scan",NA,NA,"ang","3","hap",1
-"030","Child Refused",NA,NA,"ang","3","hap",1
-"033","Yes",1,1,"ang","3","hap",1
-"034","Yes",1,1,"ang","3","hap",2
-"035","Yes",1,1,"ang","3","hap",1
-"036","Yes",1,1,"ang","3","hap",1
-"037","Yes",1,1,"ang","3","hap",2
-"038","Yes",NA,NA,"ang","3","hap",3
-"039","Yes",1,1,"ang","3","hap",1
-"040","Yes",NA,NA,"ang","3","hap",1
-"041","Yes",NA,NA,"ang","3","hap",1
-"042","Yes",NA,1,"ang","3","hap",3
-"043","Child Stopped scan",NA,NA,"ang","3","hap",1
-"045","Yes",1,1,"ang","3","hap",1
-"046","Yes",1,1,"ang","3","hap",1
-"001","Child Stopped scan",NA,NA,"ang","4","hap",NA
-"002","Yes",NA,NA,"ang","4","hap",NA
-"003","Yes",NA,NA,"ang","4","hap",NA
-"004","Yes",NA,NA,"ang","4","hap",1
-"005","Yes",NA,1,"ang","4","hap",1
-"007","Yes",NA,NA,"ang","4","hap",1
-"008","Yes",1,1,"ang","4","hap",1
-"009","Yes",1,1,"ang","4","hap",1
-"012","Yes",NA,NA,"ang","4","hap",1
-"013","Yes",1,1,"ang","4","hap",2
-"014","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
-"015","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"ang","4","hap",1
-"017","Yes",NA,NA,"ang","4","hap",1
-"018","Yes",NA,NA,"ang","4","hap",3
-"020","Child Stopped scan",NA,NA,"ang","4","hap",1
-"021","Yes",1,1,"ang","4","hap",1
-"022","Child Refused",NA,NA,"ang","4","hap",1
-"023","Child Refused",NA,NA,"ang","4","hap",1
-"024","Yes",NA,NA,"ang","4","hap",1
-"025","Yes",NA,NA,"ang","4","hap",1
-"026","Yes",NA,NA,"ang","4","hap",1
-"027","Yes",1,1,"ang","4","hap",1
-"028","Yes",1,1,"ang","4","hap",1
-"029","Child Stopped scan",NA,NA,"ang","4","hap",1
-"030","Child Refused",NA,NA,"ang","4","hap",1
-"033","Yes",1,1,"ang","4","hap",1
-"034","Yes",1,1,"ang","4","hap",1
-"035","Yes",1,1,"ang","4","hap",1
-"036","Yes",1,1,"ang","4","hap",1
-"037","Yes",1,1,"ang","4","hap",2
-"038","Yes",NA,NA,"ang","4","hap",2
-"039","Yes",1,1,"ang","4","hap",1
-"040","Yes",NA,NA,"ang","4","hap",1
-"041","Yes",NA,NA,"ang","4","hap",1
-"042","Yes",NA,1,"ang","4","hap",2
-"043","Child Stopped scan",NA,NA,"ang","4","hap",1
-"045","Yes",1,1,"ang","4","hap",1
-"046","Yes",1,1,"ang","4","hap",1
-"001","Child Stopped scan",NA,NA,"hap","1","ang",NA
-"002","Yes",NA,NA,"hap","1","ang",NA
-"003","Yes",NA,NA,"hap","1","ang",NA
-"004","Yes",NA,NA,"hap","1","ang",2
-"005","Yes",NA,1,"hap","1","ang",2
-"007","Yes",NA,NA,"hap","1","ang",2
-"008","Yes",1,1,"hap","1","ang",1
-"009","Yes",1,1,"hap","1","ang",1
-"012","Yes",NA,NA,"hap","1","ang",1
-"013","Yes",1,1,"hap","1","ang",1
-"014","No Data due to Experimentor Error",NA,NA,"hap","1","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"hap","1","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"hap","1","ang",1
-"017","Yes",NA,NA,"hap","1","ang",1
-"018","Yes",NA,NA,"hap","1","ang",1
-"020","Child Stopped scan",NA,NA,"hap","1","ang",NA
-"021","Yes",1,1,"hap","1","ang",1
-"022","Child Refused",NA,NA,"hap","1","ang",1
-"023","Child Refused",NA,NA,"hap","1","ang",1
-"024","Yes",NA,NA,"hap","1","ang",1
-"025","Yes",NA,NA,"hap","1","ang",2
-"026","Yes",NA,NA,"hap","1","ang",1
-"027","Yes",1,1,"hap","1","ang",2
-"028","Yes",1,1,"hap","1","ang",1
-"029","Child Stopped scan",NA,NA,"hap","1","ang",2
-"030","Child Refused",NA,NA,"hap","1","ang",1
-"033","Yes",1,1,"hap","1","ang",1
-"034","Yes",1,1,"hap","1","ang",2
-"035","Yes",1,1,"hap","1","ang",1
-"036","Yes",1,1,"hap","1","ang",1
-"037","Yes",1,1,"hap","1","ang",1
-"038","Yes",NA,NA,"hap","1","ang",2
-"039","Yes",1,1,"hap","1","ang",1
-"040","Yes",NA,NA,"hap","1","ang",1
-"041","Yes",NA,NA,"hap","1","ang",2
-"042","Yes",NA,1,"hap","1","ang",1
-"043","Child Stopped scan",NA,NA,"hap","1","ang",1
-"045","Yes",1,1,"hap","1","ang",1
-"046","Yes",1,1,"hap","1","ang",1
-"001","Child Stopped scan",NA,NA,"hap","2","ang",NA
-"002","Yes",NA,NA,"hap","2","ang",NA
-"003","Yes",NA,NA,"hap","2","ang",NA
-"004","Yes",NA,NA,"hap","2","ang",2
-"005","Yes",NA,1,"hap","2","ang",2
-"007","Yes",NA,NA,"hap","2","ang",3
-"008","Yes",1,1,"hap","2","ang",1
-"009","Yes",1,1,"hap","2","ang",2
-"012","Yes",NA,NA,"hap","2","ang",1
-"013","Yes",1,1,"hap","2","ang",3
-"014","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
-"015","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
-"016","No Data due to Experimentor Error",NA,NA,"hap","2","ang",1
-"017","Yes",NA,NA,"hap","2","ang",1
-"018","Yes",NA,NA,"hap","2","ang",2
-"020","Child Stopped scan",NA,NA,"hap","2","ang",4
-"021","Yes",1,1,"hap","2","ang",1
-"022","Child Refused",NA,NA,"hap","2","ang",1
-"023","Child Refused",NA,NA,"hap","2","ang",1
-"024","Yes",NA,NA,"hap","2","ang",1
-"025","Yes",NA,NA,"hap","2","ang",4
-"026","Yes",NA,NA,"hap","2","ang",1
-"027","Yes",1,1,"hap","2","ang",1
-"028","Yes",1,1,"hap","2","ang",2
-"029","Child Stopped scan",NA,NA,"hap","2","ang",2
-"030","Child Refused",NA,NA,"hap","2","ang",2
-"033","Yes",1,1,"hap","2","ang",1
-"034","Yes",1,1,"hap","2","ang",2
-"035","Yes",1,1,"hap","2","ang",1
-"036","Yes",1,1,"hap","2","ang",1
-"037","Yes",1,1,"hap","2","ang",2
-"038","Yes",NA,NA,"hap","2","ang",2
-"039","Yes",1,1,"hap","2","ang",1
-"040","Yes",NA,NA,"hap","2","ang",1
-"041","Yes",NA,NA,"hap","2","ang",2
-"042","Yes",NA,1,"hap","2","ang",2
-"043","Child Stopped scan",NA,NA,"hap","2","ang",1
-"045","Yes",1,1,"hap","2","ang",1
-"046","Yes",1,1,"hap","2","ang",1
-"001","Child Stopped scan",NA,NA,"hap","3","ang",NA
-"002","Yes",NA,NA,"hap","3","ang",NA
-"003","Yes",NA,NA,"hap","3","ang",NA
-"004","Yes",NA,NA,"hap","3","ang",3
-"005","Yes",NA,1,"hap","3","ang",1
-"007","Yes",NA,NA,"hap","3","ang",2
-"008","Yes",1,1,"hap","3","ang",1
-"009","Yes",1,1,"hap","3","ang",1
-"012","Yes",NA,NA,"hap","3","ang",1
-"013","Yes",1,1,"hap","3","ang",3
-"014","No Data due to Experimentor Error",NA,NA,"hap","3","ang",1
-"015","No Data due to Experimentor Error",NA,NA,"hap","3","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"hap","3","ang",1
-"017","Yes",NA,NA,"hap","3","ang",1
-"018","Yes",NA,NA,"hap","3","ang",1
-"020","Child Stopped scan",NA,NA,"hap","3","ang",3
-"021","Yes",1,1,"hap","3","ang",1
-"022","Child Refused",NA,NA,"hap","3","ang",1
-"023","Child Refused",NA,NA,"hap","3","ang",1
-"024","Yes",NA,NA,"hap","3","ang",1
-"025","Yes",NA,NA,"hap","3","ang",2
-"026","Yes",NA,NA,"hap","3","ang",1
-"027","Yes",1,1,"hap","3","ang",1
-"028","Yes",1,1,"hap","3","ang",2
-"029","Child Stopped scan",NA,NA,"hap","3","ang",1
-"030","Child Refused",NA,NA,"hap","3","ang",2
-"033","Yes",1,1,"hap","3","ang",1
-"034","Yes",1,1,"hap","3","ang",2
-"035","Yes",1,1,"hap","3","ang",1
-"036","Yes",1,1,"hap","3","ang",1
-"037","Yes",1,1,"hap","3","ang",1
-"038","Yes",NA,NA,"hap","3","ang",2
-"039","Yes",1,1,"hap","3","ang",1
-"040","Yes",NA,NA,"hap","3","ang",2
-"041","Yes",NA,NA,"hap","3","ang",1
-"042","Yes",NA,1,"hap","3","ang",2
-"043","Child Stopped scan",NA,NA,"hap","3","ang",1
-"045","Yes",1,1,"hap","3","ang",1
-"046","Yes",1,1,"hap","3","ang",2
-"001","Child Stopped scan",NA,NA,"hap","4","ang",NA
-"002","Yes",NA,NA,"hap","4","ang",NA
-"003","Yes",NA,NA,"hap","4","ang",NA
-"004","Yes",NA,NA,"hap","4","ang",2
-"005","Yes",NA,1,"hap","4","ang",2
-"007","Yes",NA,NA,"hap","4","ang",2
-"008","Yes",1,1,"hap","4","ang",2
-"009","Yes",1,1,"hap","4","ang",1
-"012","Yes",NA,NA,"hap","4","ang",2
-"013","Yes",1,1,"hap","4","ang",1
-"014","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
-"015","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
-"016","No Data due to Experimentor Error",NA,NA,"hap","4","ang",2
-"017","Yes",NA,NA,"hap","4","ang",2
-"018","Yes",NA,NA,"hap","4","ang",1
-"020","Child Stopped scan",NA,NA,"hap","4","ang",1
-"021","Yes",1,1,"hap","4","ang",1
-"022","Child Refused",NA,NA,"hap","4","ang",1
-"023","Child Refused",NA,NA,"hap","4","ang",2
-"024","Yes",NA,NA,"hap","4","ang",1
-"025","Yes",NA,NA,"hap","4","ang",2
-"026","Yes",NA,NA,"hap","4","ang",1
-"027","Yes",1,1,"hap","4","ang",2
-"028","Yes",1,1,"hap","4","ang",2
-"029","Child Stopped scan",NA,NA,"hap","4","ang",1
-"030","Child Refused",NA,NA,"hap","4","ang",2
-"033","Yes",1,1,"hap","4","ang",1
-"034","Yes",1,1,"hap","4","ang",2
-"035","Yes",1,1,"hap","4","ang",1
-"036","Yes",1,1,"hap","4","ang",1
-"037","Yes",1,1,"hap","4","ang",2
-"038","Yes",NA,NA,"hap","4","ang",2
-"039","Yes",1,1,"hap","4","ang",1
-"040","Yes",NA,NA,"hap","4","ang",1
-"041","Yes",NA,NA,"hap","4","ang",1
-"042","Yes",NA,1,"hap","4","ang",1
-"043","Child Stopped scan",NA,NA,"hap","4","ang",1
-"045","Yes",1,1,"hap","4","ang",1
-"046","Yes",1,1,"hap","4","ang",2
-"001","Child Stopped scan",NA,NA,"hap","1","hap",NA
-"002","Yes",NA,NA,"hap","1","hap",NA
-"003","Yes",NA,NA,"hap","1","hap",NA
-"004","Yes",NA,NA,"hap","1","hap",2
-"005","Yes",NA,1,"hap","1","hap",3
-"007","Yes",NA,NA,"hap","1","hap",2
-"008","Yes",1,1,"hap","1","hap",3
-"009","Yes",1,1,"hap","1","hap",3
-"012","Yes",NA,NA,"hap","1","hap",2
-"013","Yes",1,1,"hap","1","hap",4
-"014","No Data due to Experimentor Error",NA,NA,"hap","1","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"hap","1","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"hap","1","hap",4
-"017","Yes",NA,NA,"hap","1","hap",2
-"018","Yes",NA,NA,"hap","1","hap",4
-"020","Child Stopped scan",NA,NA,"hap","1","hap",2
-"021","Yes",1,1,"hap","1","hap",2
-"022","Child Refused",NA,NA,"hap","1","hap",2
-"023","Child Refused",NA,NA,"hap","1","hap",2
-"024","Yes",NA,NA,"hap","1","hap",4
-"025","Yes",NA,NA,"hap","1","hap",1
-"026","Yes",NA,NA,"hap","1","hap",1
-"027","Yes",1,1,"hap","1","hap",3
-"028","Yes",1,1,"hap","1","hap",3
-"029","Child Stopped scan",NA,NA,"hap","1","hap",3
-"030","Child Refused",NA,NA,"hap","1","hap",2
-"033","Yes",1,1,"hap","1","hap",2
-"034","Yes",1,1,"hap","1","hap",3
-"035","Yes",1,1,"hap","1","hap",3
-"036","Yes",1,1,"hap","1","hap",1
-"037","Yes",1,1,"hap","1","hap",3
-"038","Yes",NA,NA,"hap","1","hap",3
-"039","Yes",1,1,"hap","1","hap",2
-"040","Yes",NA,NA,"hap","1","hap",2
-"041","Yes",NA,NA,"hap","1","hap",3
-"042","Yes",NA,1,"hap","1","hap",3
-"043","Child Stopped scan",NA,NA,"hap","1","hap",4
-"045","Yes",1,1,"hap","1","hap",4
-"046","Yes",1,1,"hap","1","hap",2
-"001","Child Stopped scan",NA,NA,"hap","2","hap",NA
-"002","Yes",NA,NA,"hap","2","hap",NA
-"003","Yes",NA,NA,"hap","2","hap",NA
-"004","Yes",NA,NA,"hap","2","hap",2
-"005","Yes",NA,1,"hap","2","hap",3
-"007","Yes",NA,NA,"hap","2","hap",1
-"008","Yes",1,1,"hap","2","hap",2
-"009","Yes",1,1,"hap","2","hap",3
-"012","Yes",NA,NA,"hap","2","hap",4
-"013","Yes",1,1,"hap","2","hap",1
-"014","No Data due to Experimentor Error",NA,NA,"hap","2","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"hap","2","hap",2
-"016","No Data due to Experimentor Error",NA,NA,"hap","2","hap",4
-"017","Yes",NA,NA,"hap","2","hap",1
-"018","Yes",NA,NA,"hap","2","hap",1
-"020","Child Stopped scan",NA,NA,"hap","2","hap",1
-"021","Yes",1,1,"hap","2","hap",3
-"022","Child Refused",NA,NA,"hap","2","hap",1
-"023","Child Refused",NA,NA,"hap","2","hap",3
-"024","Yes",NA,NA,"hap","2","hap",3
-"025","Yes",NA,NA,"hap","2","hap",1
-"026","Yes",NA,NA,"hap","2","hap",2
-"027","Yes",1,1,"hap","2","hap",3
-"028","Yes",1,1,"hap","2","hap",3
-"029","Child Stopped scan",NA,NA,"hap","2","hap",2
-"030","Child Refused",NA,NA,"hap","2","hap",1
-"033","Yes",1,1,"hap","2","hap",2
-"034","Yes",1,1,"hap","2","hap",3
-"035","Yes",1,1,"hap","2","hap",3
-"036","Yes",1,1,"hap","2","hap",1
-"037","Yes",1,1,"hap","2","hap",2
-"038","Yes",NA,NA,"hap","2","hap",3
-"039","Yes",1,1,"hap","2","hap",2
-"040","Yes",NA,NA,"hap","2","hap",2
-"041","Yes",NA,NA,"hap","2","hap",2
-"042","Yes",NA,1,"hap","2","hap",3
-"043","Child Stopped scan",NA,NA,"hap","2","hap",4
-"045","Yes",1,1,"hap","2","hap",4
-"046","Yes",1,1,"hap","2","hap",2
-"001","Child Stopped scan",NA,NA,"hap","3","hap",NA
-"002","Yes",NA,NA,"hap","3","hap",NA
-"003","Yes",NA,NA,"hap","3","hap",NA
-"004","Yes",NA,NA,"hap","3","hap",1
-"005","Yes",NA,1,"hap","3","hap",2
-"007","Yes",NA,NA,"hap","3","hap",1
-"008","Yes",1,1,"hap","3","hap",3
-"009","Yes",1,1,"hap","3","hap",3
-"012","Yes",NA,NA,"hap","3","hap",2
-"013","Yes",1,1,"hap","3","hap",1
-"014","No Data due to Experimentor Error",NA,NA,"hap","3","hap",3
-"015","No Data due to Experimentor Error",NA,NA,"hap","3","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"hap","3","hap",4
-"017","Yes",NA,NA,"hap","3","hap",4
-"018","Yes",NA,NA,"hap","3","hap",4
-"020","Child Stopped scan",NA,NA,"hap","3","hap",1
-"021","Yes",1,1,"hap","3","hap",2
-"022","Child Refused",NA,NA,"hap","3","hap",3
-"023","Child Refused",NA,NA,"hap","3","hap",4
-"024","Yes",NA,NA,"hap","3","hap",4
-"025","Yes",NA,NA,"hap","3","hap",2
-"026","Yes",NA,NA,"hap","3","hap",2
-"027","Yes",1,1,"hap","3","hap",4
-"028","Yes",1,1,"hap","3","hap",3
-"029","Child Stopped scan",NA,NA,"hap","3","hap",3
-"030","Child Refused",NA,NA,"hap","3","hap",1
-"033","Yes",1,1,"hap","3","hap",1
-"034","Yes",1,1,"hap","3","hap",1
-"035","Yes",1,1,"hap","3","hap",3
-"036","Yes",1,1,"hap","3","hap",4
-"037","Yes",1,1,"hap","3","hap",4
-"038","Yes",NA,NA,"hap","3","hap",3
-"039","Yes",1,1,"hap","3","hap",3
-"040","Yes",NA,NA,"hap","3","hap",3
-"041","Yes",NA,NA,"hap","3","hap",3
-"042","Yes",NA,1,"hap","3","hap",4
-"043","Child Stopped scan",NA,NA,"hap","3","hap",1
-"045","Yes",1,1,"hap","3","hap",4
-"046","Yes",1,1,"hap","3","hap",2
-"001","Child Stopped scan",NA,NA,"hap","4","hap",NA
-"002","Yes",NA,NA,"hap","4","hap",NA
-"003","Yes",NA,NA,"hap","4","hap",NA
-"004","Yes",NA,NA,"hap","4","hap",2
-"005","Yes",NA,1,"hap","4","hap",3
-"007","Yes",NA,NA,"hap","4","hap",2
-"008","Yes",1,1,"hap","4","hap",2
-"009","Yes",1,1,"hap","4","hap",2
-"012","Yes",NA,NA,"hap","4","hap",3
-"013","Yes",1,1,"hap","4","hap",4
-"014","No Data due to Experimentor Error",NA,NA,"hap","4","hap",2
-"015","No Data due to Experimentor Error",NA,NA,"hap","4","hap",1
-"016","No Data due to Experimentor Error",NA,NA,"hap","4","hap",1
-"017","Yes",NA,NA,"hap","4","hap",1
-"018","Yes",NA,NA,"hap","4","hap",4
-"020","Child Stopped scan",NA,NA,"hap","4","hap",4
-"021","Yes",1,1,"hap","4","hap",3
-"022","Child Refused",NA,NA,"hap","4","hap",1
-"023","Child Refused",NA,NA,"hap","4","hap",2
-"024","Yes",NA,NA,"hap","4","hap",4
-"025","Yes",NA,NA,"hap","4","hap",2
-"026","Yes",NA,NA,"hap","4","hap",1
-"027","Yes",1,1,"hap","4","hap",3
-"028","Yes",1,1,"hap","4","hap",2
-"029","Child Stopped scan",NA,NA,"hap","4","hap",2
-"030","Child Refused",NA,NA,"hap","4","hap",2
-"033","Yes",1,1,"hap","4","hap",2
-"034","Yes",1,1,"hap","4","hap",3
-"035","Yes",1,1,"hap","4","hap",2
-"036","Yes",1,1,"hap","4","hap",4
-"037","Yes",1,1,"hap","4","hap",3
-"038","Yes",NA,NA,"hap","4","hap",3
-"039","Yes",1,1,"hap","4","hap",2
-"040","Yes",NA,NA,"hap","4","hap",2
-"041","Yes",NA,NA,"hap","4","hap",3
-"042","Yes",NA,1,"hap","4","hap",3
-"043","Child Stopped scan",NA,NA,"hap","4","hap",4
-"045","Yes",1,1,"hap","4","hap",4
-"046","Yes",1,1,"hap","4","hap",3
+pid,prosody,script.num,rating.type,ratings4,neu,1,ang,24,neu,2,ang,24,neu,3,ang,24,neu,4,ang,24,neu,1,hap,24,neu,2,hap,14,neu,3,hap,14,neu,4,hap,24,ang,1,ang,44,ang,2,ang,44,ang,3,ang,44,ang,4,ang,44,ang,1,hap,14,ang,2,hap,14,ang,3,hap,14,ang,4,hap,14,hap,1,ang,24,hap,2,ang,24,hap,3,ang,34,hap,4,ang,24,hap,1,hap,24,hap,2,hap,24,hap,3,hap,14,hap,4,hap,25,neu,1,ang,25,neu,2,ang,25,neu,3,ang,25,neu,4,ang,15,neu,1,hap,25,neu,2,hap,25,neu,3,hap,25,neu,4,hap,35,ang,1,ang,35,ang,2,ang,35,ang,3,ang,35,ang,4,ang,45,ang,1,hap,25,ang,2,hap,15,ang,3,hap,25,ang,4,hap,15,hap,1,ang,25,hap,2,ang,25,hap,3,ang,15,hap,4,ang,25,hap,1,hap,35,hap,2,hap,35,hap,3,hap,25,hap,4,hap,37,neu,1,ang,27,neu,2,ang,17,neu,3,ang,27,neu,4,ang,27,neu,1,hap,17,neu,2,hap,27,neu,3,hap,27,neu,4,hap,27,ang,1,ang,37,ang,2,ang,37,ang,3,ang,47,ang,4,ang,37,ang,1,hap,17,ang,2,hap,17,ang,3,hap,17,ang,4,hap,17,hap,1,ang,27,hap,2,ang,37,hap,3,ang,27,hap,4,ang,27,hap,1,hap,27,hap,2,hap,17,hap,3,hap,17,hap,4,hap,28,neu,1,ang,18,neu,2,ang,18,neu,3,ang,28,neu,4,ang,28,neu,1,hap,18,neu,2,hap,18,neu,3,hap,18,neu,4,hap,28,ang,1,ang,48,ang,2,ang,28,ang,3,ang,38,ang,4,ang,38,ang,1,hap,18,ang,2,hap,18,ang,3,hap,18,ang,4,hap,18,hap,1,ang,18,hap,2,ang,18,hap,3,ang,18,hap,4,ang,28,hap,1,hap,38,hap,2,hap,28,hap,3,hap,38,hap,4,hap,29,neu,1,ang,29,neu,2,ang,19,neu,3,ang,29,neu,4,ang,29,neu,1,hap,29,neu,2,hap,29,neu,3,hap,19,neu,4,hap,29,ang,1,ang,39,ang,2,ang,19,ang,3,ang,29,ang,4,ang,39,ang,1,hap,19,ang,2,hap,19,ang,3,hap,19,ang,4,hap,19,hap,1,ang,19,hap,2,ang,29,hap,3,ang,19,hap,4,ang,19,hap,1,hap,39,hap,2,hap,39,hap,3,hap,39,hap,4,hap,212,neu,1,ang,112,neu,2,ang,212,neu,3,ang,212,neu,4,ang,212,neu,1,hap,212,neu,2,hap,312,neu,3,hap,112,neu,4,hap,212,ang,1,ang,412,ang,2,ang,412,ang,3,ang,312,ang,4,ang,412,ang,1,hap,112,ang,2,hap,112,ang,3,hap,112,ang,4,hap,112,hap,1,ang,112,hap,2,ang,112,hap,3,ang,112,hap,4,ang,212,hap,1,hap,212,hap,2,hap,412,hap,3,hap,212,hap,4,hap,313,neu,1,ang,113,neu,2,ang,213,neu,3,ang,313,neu,4,ang,213,neu,1,hap,413,neu,2,hap,413,neu,3,hap,213,neu,4,hap,213,ang,1,ang,413,ang,2,ang,413,ang,3,ang,413,ang,4,ang,313,ang,1,hap,113,ang,2,hap,113,ang,3,hap,113,ang,4,hap,213,hap,1,ang,113,hap,2,ang,313,hap,3,ang,313,hap,4,ang,113,hap,1,hap,413,hap,2,hap,113,hap,3,hap,113,hap,4,hap,414,neu,1,ang,214,neu,2,ang,114,neu,3,ang,214,neu,4,ang,214,neu,1,hap,214,neu,2,hap,214,neu,3,hap,114,neu,4,hap,214,ang,1,ang,414,ang,2,ang,414,ang,3,ang,414,ang,4,ang,214,ang,1,hap,114,ang,2,hap,114,ang,3,hap,114,ang,4,hap,114,hap,1,ang,214,hap,2,ang,114,hap,3,ang,114,hap,4,ang,214,hap,1,hap,214,hap,2,hap,214,hap,3,hap,314,hap,4,hap,215,neu,1,ang,215,neu,2,ang,215,neu,3,ang,215,neu,4,ang,215,neu,1,hap,115,neu,2,hap,115,neu,3,hap,115,neu,4,hap,115,ang,1,ang,415,ang,2,ang,415,ang,3,ang,415,ang,4,ang,415,ang,1,hap,115,ang,2,hap,115,ang,3,hap,115,ang,4,hap,115,hap,1,ang,215,hap,2,ang,115,hap,3,ang,215,hap,4,ang,215,hap,1,hap,115,hap,2,hap,215,hap,3,hap,115,hap,4,hap,116,neu,1,ang,116,neu,2,ang,116,neu,3,ang,116,neu,4,ang,416,neu,1,hap,416,neu,2,hap,316,neu,3,hap,216,neu,4,hap,116,ang,1,ang,316,ang,2,ang,416,ang,3,ang,216,ang,4,ang,416,ang,1,hap,116,ang,2,hap,116,ang,3,hap,216,ang,4,hap,116,hap,1,ang,116,hap,2,ang,116,hap,3,ang,116,hap,4,ang,216,hap,1,hap,416,hap,2,hap,416,hap,3,hap,416,hap,4,hap,117,neu,1,ang,117,neu,2,ang,117,neu,3,ang,117,neu,4,ang,117,neu,1,hap,217,neu,2,hap,217,neu,3,hap,117,neu,4,hap,217,ang,1,ang,317,ang,2,ang,217,ang,3,ang,217,ang,4,ang,317,ang,1,hap,117,ang,2,hap,117,ang,3,hap,117,ang,4,hap,117,hap,1,ang,117,hap,2,ang,117,hap,3,ang,117,hap,4,ang,217,hap,1,hap,217,hap,2,hap,117,hap,3,hap,417,hap,4,hap,118,neu,1,ang,218,neu,2,ang,118,neu,3,ang,218,neu,4,ang,218,neu,1,hap,218,neu,2,hap,218,neu,3,hap,218,neu,4,hap,318,ang,1,ang,318,ang,2,ang,318,ang,3,ang,218,ang,4,ang,218,ang,1,hap,218,ang,2,hap,118,ang,3,hap,318,ang,4,hap,318,hap,1,ang,118,hap,2,ang,218,hap,3,ang,118,hap,4,ang,118,hap,1,hap,418,hap,2,hap,118,hap,3,hap,418,hap,4,hap,420,neu,1,ang,220,neu,2,ang,120,neu,3,ang,320,neu,4,ang,220,neu,1,hap,220,neu,2,hap,120,neu,3,hap,320,neu,4,hap,220,ang,1,ang,120,ang,2,ang,420,ang,3,ang,420,ang,4,ang,420,ang,1,hap,120,ang,2,hap,120,ang,3,hap,120,ang,4,hap,120,hap,1,ang,NA20,hap,2,ang,420,hap,3,ang,320,hap,4,ang,120,hap,1,hap,220,hap,2,hap,120,hap,3,hap,120,hap,4,hap,421,neu,1,ang,121,neu,2,ang,121,neu,3,ang,221,neu,4,ang,121,neu,1,hap,121,neu,2,hap,121,neu,3,hap,121,neu,4,hap,121,ang,1,ang,321,ang,2,ang,421,ang,3,ang,421,ang,4,ang,321,ang,1,hap,121,ang,2,hap,121,ang,3,hap,121,ang,4,hap,121,hap,1,ang,121,hap,2,ang,121,hap,3,ang,121,hap,4,ang,121,hap,1,hap,221,hap,2,hap,321,hap,3,hap,221,hap,4,hap,322,neu,1,ang,122,neu,2,ang,222,neu,3,ang,222,neu,4,ang,122,neu,1,hap,122,neu,2,hap,222,neu,3,hap,122,neu,4,hap,122,ang,1,ang,322,ang,2,ang,322,ang,3,ang,422,ang,4,ang,322,ang,1,hap,122,ang,2,hap,122,ang,3,hap,122,ang,4,hap,122,hap,1,ang,122,hap,2,ang,122,hap,3,ang,122,hap,4,ang,122,hap,1,hap,222,hap,2,hap,122,hap,3,hap,322,hap,4,hap,123,neu,1,ang,223,neu,2,ang,223,neu,3,ang,123,neu,4,ang,223,neu,1,hap,323,neu,2,hap,223,neu,3,hap,223,neu,4,hap,223,ang,1,ang,323,ang,2,ang,423,ang,3,ang,423,ang,4,ang,423,ang,1,hap,323,ang,2,hap,123,ang,3,hap,123,ang,4,hap,123,hap,1,ang,123,hap,2,ang,123,hap,3,ang,123,hap,4,ang,223,hap,1,hap,223,hap,2,hap,323,hap,3,hap,423,hap,4,hap,224,neu,1,ang,124,neu,2,ang,124,neu,3,ang,124,neu,4,ang,124,neu,1,hap,224,neu,2,hap,224,neu,3,hap,124,neu,4,hap,224,ang,1,ang,424,ang,2,ang,324,ang,3,ang,324,ang,4,ang,424,ang,1,hap,124,ang,2,hap,124,ang,3,hap,124,ang,4,hap,124,hap,1,ang,124,hap,2,ang,124,hap,3,ang,124,hap,4,ang,124,hap,1,hap,424,hap,2,hap,324,hap,3,hap,424,hap,4,hap,425,neu,1,ang,125,neu,2,ang,225,neu,3,ang,225,neu,4,ang,325,neu,1,hap,125,neu,2,hap,125,neu,3,hap,125,neu,4,hap,125,ang,1,ang,125,ang,2,ang,425,ang,3,ang,325,ang,4,ang,125,ang,1,hap,125,ang,2,hap,125,ang,3,hap,125,ang,4,hap,125,hap,1,ang,225,hap,2,ang,425,hap,3,ang,225,hap,4,ang,225,hap,1,hap,125,hap,2,hap,125,hap,3,hap,225,hap,4,hap,226,neu,1,ang,226,neu,2,ang,126,neu,3,ang,126,neu,4,ang,226,neu,1,hap,126,neu,2,hap,126,neu,3,hap,126,neu,4,hap,126,ang,1,ang,226,ang,2,ang,226,ang,3,ang,326,ang,4,ang,326,ang,1,hap,126,ang,2,hap,126,ang,3,hap,126,ang,4,hap,126,hap,1,ang,126,hap,2,ang,126,hap,3,ang,126,hap,4,ang,126,hap,1,hap,126,hap,2,hap,226,hap,3,hap,226,hap,4,hap,127,neu,1,ang,127,neu,2,ang,227,neu,3,ang,127,neu,4,ang,127,neu,1,hap,227,neu,2,hap,227,neu,3,hap,127,neu,4,hap,227,ang,1,ang,427,ang,2,ang,427,ang,3,ang,427,ang,4,ang,427,ang,1,hap,127,ang,2,hap,127,ang,3,hap,127,ang,4,hap,127,hap,1,ang,227,hap,2,ang,127,hap,3,ang,127,hap,4,ang,227,hap,1,hap,327,hap,2,hap,327,hap,3,hap,427,hap,4,hap,328,neu,1,ang,128,neu,2,ang,128,neu,3,ang,228,neu,4,ang,128,neu,1,hap,228,neu,2,hap,228,neu,3,hap,128,neu,4,hap,228,ang,1,ang,328,ang,2,ang,228,ang,3,ang,228,ang,4,ang,428,ang,1,hap,128,ang,2,hap,128,ang,3,hap,128,ang,4,hap,128,hap,1,ang,128,hap,2,ang,228,hap,3,ang,228,hap,4,ang,228,hap,1,hap,328,hap,2,hap,328,hap,3,hap,328,hap,4,hap,229,neu,1,ang,129,neu,2,ang,329,neu,3,ang,129,neu,4,ang,229,neu,1,hap,229,neu,2,hap,229,neu,3,hap,229,neu,4,hap,229,ang,1,ang,329,ang,2,ang,429,ang,3,ang,329,ang,4,ang,429,ang,1,hap,129,ang,2,hap,129,ang,3,hap,129,ang,4,hap,129,hap,1,ang,229,hap,2,ang,229,hap,3,ang,129,hap,4,ang,129,hap,1,hap,329,hap,2,hap,229,hap,3,hap,329,hap,4,hap,230,neu,1,ang,230,neu,2,ang,230,neu,3,ang,230,neu,4,ang,230,neu,1,hap,130,neu,2,hap,130,neu,3,hap,130,neu,4,hap,230,ang,1,ang,330,ang,2,ang,330,ang,3,ang,330,ang,4,ang,230,ang,1,hap,230,ang,2,hap,130,ang,3,hap,130,ang,4,hap,130,hap,1,ang,130,hap,2,ang,230,hap,3,ang,230,hap,4,ang,230,hap,1,hap,230,hap,2,hap,130,hap,3,hap,130,hap,4,hap,233,neu,1,ang,133,neu,2,ang,133,neu,3,ang,133,neu,4,ang,133,neu,1,hap,133,neu,2,hap,133,neu,3,hap,133,neu,4,hap,133,ang,1,ang,233,ang,2,ang,233,ang,3,ang,333,ang,4,ang,433,ang,1,hap,133,ang,2,hap,133,ang,3,hap,133,ang,4,hap,133,hap,1,ang,133,hap,2,ang,133,hap,3,ang,133,hap,4,ang,133,hap,1,hap,233,hap,2,hap,233,hap,3,hap,133,hap,4,hap,234,neu,1,ang,234,neu,2,ang,134,neu,3,ang,234,neu,4,ang,134,neu,1,hap,234,neu,2,hap,234,neu,3,hap,334,neu,4,hap,334,ang,1,ang,334,ang,2,ang,334,ang,3,ang,334,ang,4,ang,434,ang,1,hap,234,ang,2,hap,134,ang,3,hap,234,ang,4,hap,134,hap,1,ang,234,hap,2,ang,234,hap,3,ang,234,hap,4,ang,234,hap,1,hap,334,hap,2,hap,334,hap,3,hap,134,hap,4,hap,335,neu,1,ang,135,neu,2,ang,135,neu,3,ang,235,neu,4,ang,135,neu,1,hap,135,neu,2,hap,135,neu,3,hap,135,neu,4,hap,135,ang,1,ang,335,ang,2,ang,435,ang,3,ang,235,ang,4,ang,335,ang,1,hap,135,ang,2,hap,135,ang,3,hap,135,ang,4,hap,135,hap,1,ang,135,hap,2,ang,135,hap,3,ang,135,hap,4,ang,135,hap,1,hap,335,hap,2,hap,335,hap,3,hap,335,hap,4,hap,236,neu,1,ang,436,neu,2,ang,136,neu,3,ang,336,neu,4,ang,136,neu,1,hap,136,neu,2,hap,136,neu,3,hap,136,neu,4,hap,136,ang,1,ang,436,ang,2,ang,436,ang,3,ang,436,ang,4,ang,436,ang,1,hap,136,ang,2,hap,136,ang,3,hap,136,ang,4,hap,136,hap,1,ang,136,hap,2,ang,136,hap,3,ang,136,hap,4,ang,136,hap,1,hap,136,hap,2,hap,136,hap,3,hap,436,hap,4,hap,437,neu,1,ang,237,neu,2,ang,137,neu,3,ang,337,neu,4,ang,237,neu,1,hap,237,neu,2,hap,337,neu,3,hap,237,neu,4,hap,337,ang,1,ang,337,ang,2,ang,337,ang,3,ang,237,ang,4,ang,437,ang,1,hap,237,ang,2,hap,237,ang,3,hap,237,ang,4,hap,237,hap,1,ang,137,hap,2,ang,237,hap,3,ang,137,hap,4,ang,237,hap,1,hap,337,hap,2,hap,237,hap,3,hap,437,hap,4,hap,338,neu,1,ang,138,neu,2,ang,238,neu,3,ang,238,neu,4,ang,138,neu,1,hap,138,neu,2,hap,238,neu,3,hap,338,neu,4,hap,138,ang,1,ang,438,ang,2,ang,438,ang,3,ang,338,ang,4,ang,438,ang,1,hap,438,ang,2,hap,338,ang,3,hap,338,ang,4,hap,238,hap,1,ang,238,hap,2,ang,238,hap,3,ang,238,hap,4,ang,238,hap,1,hap,338,hap,2,hap,338,hap,3,hap,338,hap,4,hap,339,neu,1,ang,139,neu,2,ang,139,neu,3,ang,139,neu,4,ang,139,neu,1,hap,139,neu,2,hap,139,neu,3,hap,139,neu,4,hap,139,ang,1,ang,239,ang,2,ang,239,ang,3,ang,239,ang,4,ang,339,ang,1,hap,139,ang,2,hap,139,ang,3,hap,139,ang,4,hap,139,hap,1,ang,139,hap,2,ang,139,hap,3,ang,139,hap,4,ang,139,hap,1,hap,239,hap,2,hap,239,hap,3,hap,339,hap,4,hap,240,neu,1,ang,140,neu,2,ang,140,neu,3,ang,140,neu,4,ang,140,neu,1,hap,140,neu,2,hap,140,neu,3,hap,140,neu,4,hap,140,ang,1,ang,340,ang,2,ang,340,ang,3,ang,340,ang,4,ang,340,ang,1,hap,140,ang,2,hap,140,ang,3,hap,140,ang,4,hap,140,hap,1,ang,140,hap,2,ang,140,hap,3,ang,240,hap,4,ang,140,hap,1,hap,240,hap,2,hap,240,hap,3,hap,340,hap,4,hap,241,neu,1,ang,341,neu,2,ang,241,neu,3,ang,241,neu,4,ang,141,neu,1,hap,241,neu,2,hap,141,neu,3,hap,141,neu,4,hap,241,ang,1,ang,441,ang,2,ang,441,ang,3,ang,441,ang,4,ang,441,ang,1,hap,141,ang,2,hap,141,ang,3,hap,141,ang,4,hap,141,hap,1,ang,241,hap,2,ang,241,hap,3,ang,141,hap,4,ang,141,hap,1,hap,341,hap,2,hap,241,hap,3,hap,341,hap,4,hap,342,neu,1,ang,142,neu,2,ang,142,neu,3,ang,242,neu,4,ang,242,neu,1,hap,342,neu,2,hap,342,neu,3,hap,342,neu,4,hap,242,ang,1,ang,142,ang,2,ang,342,ang,3,ang,242,ang,4,ang,342,ang,1,hap,342,ang,2,hap,142,ang,3,hap,342,ang,4,hap,242,hap,1,ang,142,hap,2,ang,242,hap,3,ang,242,hap,4,ang,142,hap,1,hap,342,hap,2,hap,342,hap,3,hap,442,hap,4,hap,343,neu,1,ang,243,neu,2,ang,143,neu,3,ang,143,neu,4,ang,143,neu,1,hap,143,neu,2,hap,243,neu,3,hap,443,neu,4,hap,143,ang,1,ang,443,ang,2,ang,443,ang,3,ang,443,ang,4,ang,443,ang,1,hap,143,ang,2,hap,143,ang,3,hap,143,ang,4,hap,143,hap,1,ang,143,hap,2,ang,143,hap,3,ang,143,hap,4,ang,143,hap,1,hap,443,hap,2,hap,443,hap,3,hap,143,hap,4,hap,445,neu,1,ang,145,neu,2,ang,145,neu,3,ang,145,neu,4,ang,145,neu,1,hap,145,neu,2,hap,145,neu,3,hap,145,neu,4,hap,245,ang,1,ang,445,ang,2,ang,445,ang,3,ang,445,ang,4,ang,445,ang,1,hap,145,ang,2,hap,145,ang,3,hap,145,ang,4,hap,145,hap,1,ang,145,hap,2,ang,145,hap,3,ang,145,hap,4,ang,145,hap,1,hap,445,hap,2,hap,445,hap,3,hap,445,hap,4,hap,446,neu,1,ang,146,neu,2,ang,146,neu,3,ang,146,neu,4,ang,346,neu,1,hap,346,neu,2,hap,146,neu,3,hap,246,neu,4,hap,246,ang,1,ang,346,ang,2,ang,446,ang,3,ang,446,ang,4,ang,346,ang,1,hap,146,ang,2,hap,146,ang,3,hap,146,ang,4,hap,146,hap,1,ang,146,hap,2,ang,146,hap,3,ang,246,hap,4,ang,246,hap,1,hap,246,hap,2,hap,246,hap,3,hap,246,hap,4,hap,3

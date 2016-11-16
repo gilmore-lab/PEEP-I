@@ -4,6 +4,6 @@ This repository contains files and R code related to the PEEP-I project. Specifi
 
 The recordings used in this study can be found on [Databrary](http://databrary.org/volume/248).
 
-The ratings data can be found in [analysis/csv/peep-I-ratings.csv].
+The ratings data can be found in [analysis/csv/peep-I-ratings.csv](analysis/csv/peep-I-ratings.csv).
 
 Files that produce simple plots of the rating distributions can be found in [RMarkdown](ratings-analysis.Rmd) and [HTML](https://rawgit.com/gilmore-lab/PEEP-I/master/ratings-analysis.html) formats.
